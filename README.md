@@ -54,7 +54,7 @@ Time | Topic | Type |
 :----|:-----|:------|
 9.30 | Seminar 6: Eclectic/clear text editing; Critical Apparatus | Presentation, Discussion |
 11.30  | Seminar 7: Editing Early Modern Texts; EEBO-TCP (Jonathan Blaney) | Digital lab |
-14.00 (in SHL)  | Seminar 8: Editing a clear text: fiction, drama, and poems | Discussion; Digital lab |
+14.00 (in SHL)  | Seminar 8: Text modelling; Editing a clear text: fiction, drama, and poems | Discussion; Digital lab |
 16.00 | Library Time |
 
 ### Day 4 (Thursday, 27 June)
