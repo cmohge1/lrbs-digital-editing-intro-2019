@@ -4,15 +4,31 @@ title: About
 permalink: /about/
 ---
 
-# Welcome to the site for the 2019 London Rare Books School module on advanced methods in digital scholarly editing (1-5 July 2019).
+## Convened by: Dr Christopher Ohge
 
-#### Convened by: Dr Christopher Ohge (Institute of English Studies)
+## Guest tutors: Simona Stoyanova (Institute of Classical Studies, LatinNow Project), Jonathan Blaney (Institute for Historical Research)
 
-#### Guest Tutors: Dr Gabriel Bodard (Institute of Classical Studies), Dr Tiago Sousa Garcia (Newcastle), Dr Elizabeth Williamson (Exeter)
+**Venue: Senate House, University of London**
 
-#### Venue: Senate House, University of London
+This course will survey the traditions and principles of scholarly editing and textual scholarship, complemented with hands-on workshops on the fundamentals of creating digital editions. It aims to provide an understanding of the history of editorial practice, including the study of manuscripts, the theory of copy text editing, and the decisions relating to textual and contextual apparatus that inform the design of an edition. Students will focus on encoding documents in XML using the standards of the Text Encoding Initiative (TEI). Students will also learn about Markdown, HTML, CSS, alternative markup languages (such as LMNL), and how to incorporate digital facsimiles into editions using TextLab. Students will also have the opportunity to examine rare books and manuscripts from the Senate House Library’s Special Collections.
 
-Have you taken an introduction to the Text Encoding Initiative (TEI), but are unsure of what to do next? Have you started a digital edition, but want to learn more about encoding, querying, publishing and analysing your project? Taught by several scholars with years of practical editing experience, this advanced digital scholarly editing module can help take your digital editing further, showing through several hands-on workshops how to implement advanced computational methods. Students will focus on XML technologies such as advanced TEI encoding, XPath and XSLT, as well as the programming language R to produce text analyses of edition data.
+For more information on the module, please consult last year’s module web site.
 
+Please note: No prior experience with programming is required. If you have experience with TEI-XML, you may want to consider taking the Digital Scholarly Editing: Advanced Methods module, which runs from 1–5 July 2019.
 
-Please note: Students in this module must have a basic understanding of TEI-XML. If you require an introduction to TEI, consider signing up for the LRBS module, Digital Scholarly Editing: An Introduction.
+### Required Reading
+Burnard, Lou. What is the Text Encoding Initiative? (Open Edition, 2014).
+
+Gabler, Hans Walter. Text Genetics in Literary Modernism and Other Essays [especially "Theorizing the Digital Scholarly Edition"] (Open Book, 2018).
+
+Gaskell, Philip. From Writer to Reader: Studies in Editorial Method (Oak Knoll, 1978).
+
+Gottesman, Ronald and Scott Bennett, eds. Art and Error: Modern Textual Editing (Methuen, 1970).
+
+Greetham, David. Scholarly Editing: A Guide to Research (New York: MLA, 1995).
+
+McGann, Jerome. A Critique of Modern Textual Criticism (UP of Virginia, 1983).
+
+Pierazzo, Elena. Digital Scholarly Editing: Theories, Models and Methods  (Ashgate, 2015).
+
+Tanselle, G. Thomas. "The Editing of Historical Documents," Studies in Bibliography 31 (1978), pp. 1–56.
