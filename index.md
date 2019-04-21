@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-**Welcome to the site for the 2019 London Rare Books School introductory module on digital scholarly editing (24–29 June 2019).**
+**Welcome to the site for the 2019 London Rare Books School introductory module on digital scholarly editing (24–28 June 2019).**
 
 **Convened by: Dr Christopher Ohge (Institute of English Studies)**
 
