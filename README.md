@@ -52,9 +52,9 @@ Time     | Topic                               | Type                    |
 
 Time | Topic | Type |
 :----|:-----|:------|
-9.30 | Seminar 6: Eclectic/clear text editing; Critical Apparatus | Presentation, Discussion |
-11.30  | Seminar 7: Editing Early Modern Texts; EEBO-TCP (Jonathan Blaney) | Digital lab |
-14.00 (in SHL)  | Seminar 8: Text modelling; Editing a clear text: fiction, drama, and poems | Discussion; Digital lab |
+9.30 | Seminar 6: Editing Early Modern Texts; EEBO and the Text Creation Partnership (Jonathan Blaney) | Presentation, Discussion |
+11.30  | Seminar 7: Eclectic/clear text editing; Critical Apparatus | Digital lab |
+14.00 (in Senate House Library Special Collections) | Seminar 8: Text modelling with rare books and manuscripts; Encoding fiction, drama, and poems | Discussion; Digital lab |
 16.00 | Library Time |
 
 ### Day 4 (Thursday, 27 June)
@@ -70,7 +70,7 @@ Time | Topic | Type |
 
 Time     | Topic                               | Type                    |
 :--------| :---------------------------------- |:------------------------|
-9.30 | Seminar 12: Problems with TEI; alternative markup with LMNL; Computer-Assisted Collation Overview; Quick introduction to XPath and XSLT | Presentation, Digital lab |
+9.30 | Seminar 12: Problems with TEI; Computer-Assisted Collation Overview | Presentation, Digital lab |
 11.30 | Seminar 13: Open discussion on publishing digital editions; course review | Discussion |
 
 
