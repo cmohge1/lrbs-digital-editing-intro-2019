@@ -7,7 +7,7 @@ title: Home
 
 **Convened by: Dr Christopher Ohge (Institute of English Studies)**
 
-**Guest Tutors: Jonathan Blaney (Institute of Historical Research), Dr Simona Stoyanova (Institute of Classical Studies; LatinNow Project)**
+**Guest Tutors: Jonathan Blaney (Institute of Historical Research), Simona Stoyanova (Institute of Classical Studies; LatinNow Project)**
 
 **Venue: Senate House, University of London**
 
