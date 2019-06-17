@@ -3,13 +3,13 @@ layout: home
 title: Home
 ---
 
-**Welcome to the site for the 2019 London Rare Books School introductory module on digital scholarly editing (24–28 June 2019).**
+## Welcome to the site for the 2019 London Rare Books School introductory module on digital scholarly editing (24–28 June 2019).**
 
-**Convened by: Dr Christopher Ohge (Institute of English Studies)**
+## Convened by: Dr Christopher Ohge (Institute of English Studies)**
 
-**Guest Tutors: Jonathan Blaney (Institute of Historical Research), Simona Stoyanova (Institute of Classical Studies; LatinNow Project)**
+## Guest Tutors: Jonathan Blaney (Institute of Historical Research), Simona Stoyanova (Institute of Classical Studies; LatinNow Project)**
 
-**Venue: Senate House, University of London**
+**Venue: IHR Training Suite, Senate House (North Block, 3rd Floor), University of London**
 
 Follow the schedule below, which includes links to the individual days, or navigate to the appropriate day at the top of the page.
 
