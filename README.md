@@ -45,7 +45,7 @@ Time     | Topic                               | Type                    |
 :--------| :---------------------------------- |:------------------------|
 9.30 | Seminar 3: Introduction to the Text Encoding Initiative (TEI) | Presentation, Discussion |
 11.30 | Seminar 4: Editing the Classics (Simona Stoyanova) |  Digital lab             |
-14.00 (in SHL) | Seminar 5: Using TEI for documentary prose editions: letters and journals | Discussion |
+14.00 | Seminar 5: Using TEI for documentary prose editions: letters and journals | Discussion |
 16.00 | Library Time |
 
 ### Day 3 (Wednesday, 26 June)
@@ -66,7 +66,7 @@ Time | Topic | Type |
 14.00 | Seminar 11: Using TextLab to create manuscript-based genetic editions in TEI | Digital lab |
 16.00 | Library Time |             |
 
-### Day 5 (Friday, 28 July)
+### Day 5 (Friday, 28 June)
 
 Time     | Topic                               | Type                    |
 :--------| :---------------------------------- |:------------------------|
