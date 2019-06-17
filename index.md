@@ -3,11 +3,11 @@ layout: home
 title: Home
 ---
 
-## Welcome to the site for the 2019 London Rare Books School introductory module on digital scholarly editing (24–28 June 2019).**
+## Welcome to the site for the 2019 London Rare Books School introductory module on digital scholarly editing (24–28 June 2019).
 
-## Convened by: Dr Christopher Ohge (Institute of English Studies)**
+## Convened by: Dr Christopher Ohge (Institute of English Studies)
 
-## Guest Tutors: Jonathan Blaney (Institute of Historical Research), Simona Stoyanova (Institute of Classical Studies; LatinNow Project)**
+## Guest Tutors: Jonathan Blaney (Institute of Historical Research), Simona Stoyanova (Institute of Classical Studies; LatinNow Project)
 
 **Venue: IHR Training Suite, Senate House (North Block, 3rd Floor), University of London**
 
@@ -32,9 +32,7 @@ Time     | Topic                               | Type                    |
 :--------| :---------------------------------- |:------------------------|
 9.30 | Seminar 3: Introduction to the Text Encoding Initiative (TEI) | Presentation, Discussion |
 11.30 | Seminar 4: Editing the Classics (Simona Stoyanova) |  Digital lab             |
-
-Short Latin epigraphy example. Archimedes Palimpsest data.]
-14.00 (in SHL) | Seminar 5: Using TEI for documentary prose editions: letters and journals | Discussion |
+14.00 | Seminar 5: Using TEI for documentary prose editions: letters and journals | Discussion |
 16.00 | Library Time |
 
 ### Day 3 (Wednesday, 26 June)
