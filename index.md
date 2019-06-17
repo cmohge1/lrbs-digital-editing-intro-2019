@@ -41,7 +41,7 @@ Time | Topic | Type |
 :----|:-----|:------|
 9.30 | Seminar 6: Editing Early Modern Texts; EEBO and the Text Creation Partnership (Jonathan Blaney) | Presentation, Discussion |
 11.30  | Seminar 7: Eclectic/clear text editing; Critical Apparatus | Digital lab |
-14.00 (in Senate House Library Special Collections) | Seminar 8: Text modelling with rare books and manuscripts; Encoding fiction, drama, and poems | Discussion; Digital lab |
+14.00 (in Senate House Library Special Collections) | Seminar 8: Text modelling with rare books and manuscripts; Encoding fiction, drama, poems––and marginalia? | Discussion; Digital lab |
 16.00 | Library Time |
 
 ### [Day 4 (Thursday, 27 June)](/day4.md)
