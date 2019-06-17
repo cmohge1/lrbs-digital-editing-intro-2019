@@ -17,7 +17,7 @@ Follow the schedule below, which includes links to the individual days, or navig
 
 (Please note that I will hold office hours in Room 242 for further consultation between 8.30–9.30 and 16.00–17.00)
 
-### Day 1 (Monday, 24 June)
+### Day 1 [(Monday, 24 June)](/day1.md)
 
 Time      | Topic  | Type    |
 :---------| :----- | :------ |
@@ -26,7 +26,7 @@ Time      | Topic  | Type    |
 14.00 | Seminar 1: Brief history of Scholarly Editing; Digital Editing Workflow  | Presentation, Discussion  |
 16.00 | Seminar 2: Transcription and Markup Languages (Markdown, HTML, CSS); Brief Introduction to XML | Digital lab |
 
-### Day 2 (Tuesday, 25 June)
+### Day 2 [(Tuesday, 25 June)](/day2.md)
 
 Time     | Topic                               | Type                    |
 :--------| :---------------------------------- |:------------------------|
@@ -35,7 +35,7 @@ Time     | Topic                               | Type                    |
 14.00 | Seminar 5: Using TEI for documentary prose editions: letters and journals | Discussion |
 16.00 | Library Time |
 
-### Day 3 (Wednesday, 26 June)
+### Day 3 [(Wednesday, 26 June)](/day3.md)
 
 Time | Topic | Type |
 :----|:-----|:------|
@@ -44,7 +44,7 @@ Time | Topic | Type |
 14.00 (in Senate House Library Special Collections) | Seminar 8: Text modelling with rare books and manuscripts; Encoding fiction, drama, and poems | Discussion; Digital lab |
 16.00 | Library Time |
 
-### Day 4 (Thursday, 27 June)
+### Day 4 [(Thursday, 27 June)](/day4.md)
 
 Time | Topic | Type |
 :----|:------|:-----|
@@ -53,7 +53,7 @@ Time | Topic | Type |
 14.00 | Seminar 11: Using TextLab to create manuscript-based genetic editions in TEI | Digital lab |
 16.00 | Library Time |             |
 
-### Day 5 (Friday, 28 June)
+### Day 5 [(Friday, 28 June)](/day5.md)
 
 Time     | Topic                               | Type                    |
 :--------| :---------------------------------- |:------------------------|
