@@ -31,13 +31,7 @@ Time      | Topic  | Type    |
 Time     | Topic                               | Type                    |
 :--------| :---------------------------------- |:------------------------|
 9.30 | Seminar 3: Introduction to the Text Encoding Initiative (TEI) | Presentation, Discussion |
-11.30 | Seminar 4: Editing the Classics (Simona Stoyanova) |  Digital lab             |^[NOTES: More general editing of the classics. Literary v. epigraphic material.
-
-Standards enable further research.
-
-Using data not for publication.
-
-What can we do with overlapping datasets?
+11.30 | Seminar 4: Editing the Classics (Simona Stoyanova) |  Digital lab             |
 
 Short Latin epigraphy example. Archimedes Palimpsest data.]
 14.00 (in SHL) | Seminar 5: Using TEI for documentary prose editions: letters and journals | Discussion |
@@ -61,7 +55,7 @@ Time | Topic | Type |
 14.00 | Seminar 11: Using TextLab to create manuscript-based genetic editions in TEI | Digital lab |
 16.00 | Library Time |             |
 
-### Day 5 (Friday, 28 July)
+### Day 5 (Friday, 28 June)
 
 Time     | Topic                               | Type                    |
 :--------| :---------------------------------- |:------------------------|
