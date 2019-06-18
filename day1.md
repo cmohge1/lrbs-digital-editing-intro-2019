@@ -27,7 +27,7 @@ Time      | Topic  | Type    |
 
 #### Readings
 
-1. [Greetham, "A History of Textual Scholarship"](/Day1/greetham-history-textual-scholarship.pdf) (from the *Cambridge Companion to Textual Scholarship*).
+1. [Greetham, "A History of Textual Scholarship"](../readings/greetham-history-textual-scholarship.pdf) (from the *Cambridge Companion to Textual Scholarship*).
 
 2. [A. E. Housman, "The Application of Thought to Textual Criticism"](../readings/housman_application_of_thought.html) (*Art and Error*).
 
@@ -41,7 +41,7 @@ Time      | Topic  | Type    |
   <ul>
   <li><p>Peisistratus (560–527 BCE) orders the 'official' text of Homer. The primary challenge was to build a coherent text from myriad versions spoken by the rhapsodes. This could be a viable beginning of textual criticism, i.e., being aware of variance and attending to authenticity and authority (whatever those terms mean). (Discuss!)</p></li>
   <li><p>Lycurgus (c. 390–324 BCE) arranges for single texts of Aeschylus, Sophocles, and Euripedes to be deposited into Athenian archives.</p></li>
-  <li><p>The history of textual editing is a history of arguments about the meaning of terms such as authenticity and authority. It is also a record of humans grappling with the contingencies of cultural imagination, tradition, and artifacts.</p></li>
+  <li><p>The history of textual editing is a history of arguments about the meaning of terms such as authenticity and authority. It is also a record of humans grappling with the contingencies of cultural imagination, tradition, and artefacts.</p></li>
   <li><p>What is the <em>textus receptus</em>? When mistakes in a received (published) edition prevail: E.g., Falstaff "babbl'd o' green fields" (Shakespeare, <em>Henry V</em>); "soiled fish of the sea" (Melville, <em>White-Jacket</em>).</p></li>
   <li><p>Library of Alexandria: manuscript copying was a common practice, since all incoming ships had to declare any manuscripts in their possession. Any manuscripts declared would then be copied and deposited in libraries. Their copies were only labeled differently if they had differences.</p></li>
   <li><p>The birth of collation as an editorial practice; and dealing with analogy versus anomaly: the Alexandrians sought to emend texts that had, in their judgment, corruptions. Their practice is idealistic: the best text is not based on any actual document but rather a new document that seeks to bring out the best readings from all the extant texts.</p></li>
