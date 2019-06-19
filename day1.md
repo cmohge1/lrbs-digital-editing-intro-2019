@@ -157,7 +157,7 @@ You must start with a flexible text editor. By flexible I mean an editor that is
 
 1. [Access the Markdown slides here.](https://christopherohge.com/MarkdownLRBS.pdf)
 2. Download Tennyson's "Early Spring."
-3. Press `control + shift + m` to show an html preview in Atom.
+3. Access the web-based Markdown editor, [Dillinger](https://dillinger.io/).
 4. Using Markdown syntax, mark up the following ([click here for the Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)):
 
   - a main header (for the title), and italicise it;
@@ -165,7 +165,7 @@ You must start with a flexible text editor. By flexible I mean an editor that is
   - a hyperlink from the author's name to a web page (say, Poetry Foundation) with his biography;
   - create a contextual footnote for one of the lines (possibly the "Source"?).
 
-- Once your markdown document is complete, right-click on the preview window, select HTML > HTML (offline). In a green box you will see the html url for your file. You can also right click on the markdown preview and select "Open in Broswer". Your document is now available as a web-ready html file. You can navigate to the file yourself and open it in your browser.
+- Once your markdown document is complete, explore the preview and export options (Preview As, Export As). Your document will now be available in as many file formats as are available. You can navigate to the file yourself and open it in your browser.
 
 How do you get from markdown to xml? Two good options are [Pandoc](https://pandoc.org/) and [OxGarage](http://www.tei-c.org/oxgarage/). I prefer using Pandoc for my transformations (my favourite probably being the markdown > PDF transformation). OxGarage is also good, and a little bit simpler to use: it can convert several types of documents into TEI-XML.
 
@@ -175,4 +175,4 @@ The other option is to open a new TEI-XML document in oXygen or your preferred t
 
 [Access the XML slides here.](https://christopherohge.com/XML-intro_LRBS.pdf)
 
-#### Proceed to [Day 2](day_2_plan.md)
+#### Proceed to [Day 2](day2.md)

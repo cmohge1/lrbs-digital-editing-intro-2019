@@ -27,7 +27,7 @@ Time     | Topic                               | Type                    |
 
 ### Introduction to the Text Encoding Initiative
 
-Access the session slides here.
+Access the session slides [here](../tei-intro.html).
 
 ### Editing the Classics (Simona Stoyanova)
 
@@ -58,7 +58,7 @@ Access the session slides here.
 <p><strong>Semi-diplomatic:</strong> "w[oul]d h[a]ve retir[e]d immed[iate]ly h[a]d h[e] n[o]t b[ee]n inf[or]m[e]d";</p>
 <p><strong>Clear text:</strong> would have retired immediately had he not been informed.</p></li>
 
-<li><p>Yet another option, which is one of the most pragmatic, is <strong>plain text</strong>, which was conceived by the editors of the Mark Twain Project's letters edition: 
+<li><p>Yet another option, which is one of the most pragmatic, is <strong>plain text</strong>, which was conceived by the editors of the Mark Twain Project's letters edition:
 'when the documents originally sent are intact and available, we transcribe them as fully and precisely as is compatible with a highly inclusive critical text—not a literal or all-inclusive one, but a typographical transcription that is optimally legible and, at the same time, maximally faithful to the text that Clemens himself transmitted.1 Original documents are therefore emended (changed) as little as possible, which means only in order to alter, simplify, or omit what would otherwise threaten to make the transcription unreadable, or less than fully intelligible in its own right. When, however, the original documents are lost or unavailable, we necessarily rely on the most authoritative available copy of them. Since copies by their nature contain errors, nonoriginal documents are emended as much as necessary, partly for the reasons we emend originals, but chiefly to restore the text of the lost original, insofar as the evidence permits.'</p></li>
 
 <li><p>Yet: one cannot transcribe everything. As soon as transcription happens, an element of contingency comes into the text. It is still a representation.</p></li>
