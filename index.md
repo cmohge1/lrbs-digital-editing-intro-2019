@@ -13,7 +13,7 @@ title: Home
 
 Follow the schedule below, which includes links to the individual days, or navigate to the appropriate day at the top of the page.
 
-## Detailed Schedule (Subject to Change)
+## Schedule
 
 (Please note that I will hold office hours in Room 242 for further consultation between 8.30–9.30 and 16.00–17.00)
 

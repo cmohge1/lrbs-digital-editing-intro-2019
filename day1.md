@@ -97,6 +97,7 @@ Time      | Topic  | Type    |
 </ul>
 </details>
 
+
 ### Seminar 2: Digital Editing Workflow
 
 #### Reading
@@ -106,14 +107,16 @@ Time      | Topic  | Type    |
 #### Lecture notes
 
 <details>
-  <summary>Digital Editing Workflow</summary>
+  <summary>Digital Editing Workflow and Mental Modeling</summary>
   <p>
 
-If I am interested in creating a digital edition, there are two questions that you must ponder at length before proceeding:
+If you are interested in creating a digital edition, there are two questions that you must ponder at length before proceeding:
 
-1. What is my text model, why am I making it, and what will it be used for?
+1. What do the documents require? Are you working with manuscripts or print texts (or a mixture of both)?
 
-2. What is my workflow?
+2. What are your editorial principles? Based on those principle, what is the text model, why are you making it, and what will it be used for?
+
+3. What is the workflow?
 
 The answer to (1) will vary quite a bit, depending on your documents, and what kind of edition you would like to produce. We will continue to investigate options to (1) as we move through the course this week.
 
@@ -122,33 +125,32 @@ The answer to (2) is a little more straightforward. Since we are concerned with 
 </p>
 </details>
 
-
+<details>
+<summary>Basic components of a digital edition</summary>
+<ul>
+<li>
+<p>Source file(s) of transcribed text and metadata encoded in an open source, machine readable format (Markdown, HTML, XML, JSON). The most thorough, and semantically rich, encoding practice is the Text Encoding Initiative (TEI) standards of XML, but it's not necessary.</p>
+</li>
+<li>
+<p>Files that parse (i.e., read) and transform the encoded documents for viewing. Typically these will be XSLT or XQuery or (less common) Python files.</p></li>
+<li><p>The edition, as transformed by the former, in HTML.</p>
+<p>Files for styling the edition's html interface (CSS, JavaScript)</p></li>
+</ul>
+</details>
 
 <details>
   <summary>Transcription Options</summary>
   <p>
 
-The beginning of the pipeline is the flexible text editor. By flexible I mean an editor that is amenable to Web publishing, and uses non-proprietary open source formatting. Many editors have used proprietary word processors to transcribe their editorial material. While that has many virtues (control of type-setting features, to name one), it presents a lot of problems if you are trying to optimize your workflow. E.g., if you transcribe an edition in Microsoft Word, you would have to transform that document (and all of its attendant proprietary code) into XML or HTML in order to make it work as a digital edition on the Web.</p>
+You must start with a flexible text editor. By flexible I mean an editor that is amenable to Web publishing, and uses non-proprietary open source formatting. Many editors have used proprietary word processors to transcribe their editorial material. While that has some virtues (control of type-setting features, to name one), it presents a lot of problems if you are trying to optimise your workflow. E.g., if you transcribe an edition in Microsoft Word, you would have to transform that document (and all of its attendant proprietary code) into XML or HTML in order to make it work as a digital edition on the Web.</p>
 
-<p>For us, the common understanding is that XML files should be our edition files of record. Ideally, all documents would be transcribed in XML from the beginning, but for a variety of reasons that is not always practicable.</p>
+<p>For us, the common understanding is that machine-readable documents in HTML or XML should be our edition files of record. From there, all kinds of transformations are possible, including making printer's copy for a book. Ideally, all documents would be transcribed in TEI XML from the beginning, but for a variety of reasons that is not always practicable.</p>
 
-<p>First we will look at the most basic of transcription: Markdown. This is lightweight web authoring at its best.
+<p>First we will look at the most basic of transcription methods: Markdown. This is lightweight web authoring at its best.
 
 </p>
 </details>
 
-<details>
-<summary>Basic components of a digital edition</summary>
-<ul>
-<li>
-<p>Source file(s) of transcribed text and metadata encoded in XML. The best encoding practice is to use the Text Encoding Initiative (TEI) standards, but it's not necessary.</p>
-</li>
-<li>
-<p>Files that parse (i.e., read) and transform the encoded documents for viewing. Typically these will be XSLT or XQuery or (less common) Python files.</p></li>
-<li><p>The edition, as transformed by the former, in html.</p>
-<p>Files for styling the edition's html interface (CSS, JavaScript)</p></li>
-</ul>
-</details>
 <br />
 
 ### Markdown exercise

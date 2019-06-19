@@ -22,7 +22,7 @@ Time | Topic | Type |
 :----|:-----|:------|
 9.30 | Seminar 6: Editing Early Modern Texts; EEBO and the Text Creation Partnership (Jonathan Blaney) | Presentation, Discussion |
 11.30  | Seminar 7: Eclectic/copy text editing; Critical Apparatus | Digital lab |
-14.00 (in Senate House Library Special Collections) | Seminar 8: Text modelling with rare books and manuscripts; Encoding fiction, drama, poems––and marginalia? | Discussion; Digital lab |
+14.00 (in Senate House Library Special Collections) | Seminar 8: Open discussion of editorial issues with rare books and manuscripts; mental modelling and text encoding of fiction, drama, poems––and marginalia? | Discussion; Digital lab |
 16.00 | Library Time |
 
 
@@ -157,6 +157,118 @@ Parallel segmentation method.
 
 [Access a plain text file of Tennyson's poem "Early Spring"](https://christopherohge.com/tennyson_early-spring.txt).
 
-Encode the poem in TEI (with the required metadata in the `<teiHeader>`, please).
+1. Encode the poem in TEI (with the required metadata in the `<teiHeader>`, please).
+2. Encode the textual variants in an apparatus (see foot of the printed page).
 
 ### Seminar 8: Open discussion of editorial problems with special collections
+
+#### On Mental Modelling of texts
+
+"[E]very electronic representation of text is an interpretation" (Paul Eggert, *Securing the Past*, Cambridge UP, 2009).
+
+And an argument, many say. Are these points obvious, or absurd?
+
+Modelling: Our notions of modelling a text are really inherent in textual editing activities, but the theorising about modeling could point back to Willard McCarty's insistence on the centrality of modelling in digital humanities projects (see his *Humanities Computing*, Palgrave, 2005).
+
+Patrick Sahle's model (of text modelling):
+
+![Sahle_model](/Day2/patrick_sahle_modelling.jpg)
+
+(For the full slideshow, go to <http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf>. And for his essay on the subject, click go to <https://www.openbookpublishers.com/htmlreader/978-1-78374-238-7/ch2.xhtml>.)
+
+What do you think?
+
+Sahle also provided a useful distinction of the 'digitised' versus the 'digital' edition. A work that is 'digitised' tends to mimic the codex––it is a page by page rendering. This form of digitisation is usually a PDF or even a hypertext marked up in html. But it is not interactive. A digital edition can only fully function in the digital realm––that is, if you have to print a digital edition, the edition would lose its functionality. The digital edition is more interactive  
+
+What really distinguishes the two?
+
+*Textons* versus *scriptons*: one of the distinguishing features of digital editing. A *texton* is all of the data that appears in the text file, while a *scripton* is the text as it appears to the user of the edition (see Pierazzo, Digital Scholarly Editing, p. 34). Put another way, it is raw source data versus the output that users see in the interface.
+
+For example: in a recent documentary editing project on incoming letters to Mark Twain as part of an 1884 April Fools joke, each person is tagged with a pointer to a "personography" (a TEI file listing biographical information):
+
+```
+<text type="letter">
+    <body>
+      <pb facs="smith01.jpg" xml:id="pb0001" n="1"/>
+      <head type="metadata">
+        <name corresp="#JHS">J. Hyatt Smith</name> to <addressee>
+          <name corresp="#SLC">Samuel L. Clemens</name>
+        </addressee>
+        <date when="1884-03-28">28 March 1884</date> &#8226; <name type="place">Brooklyn, N.Y.</name>
+        <sourceline>(MS: CU-MARK, UCLC 41833)</sourceline>
+      </head>
+```
+
+The #JHS and #SLC attributes point to @xml:id attributes in a separate personography file:
+
+```
+<person xml:id="JHS">
+<persName type="display">Rev. J. Hyatt Smith</persName>
+<persName type="full"><surname>Smith</surname>, <forename type="first">John</forename> <forename type="middle">Hyatt</forename></persName>
+<birth when="1824">1824</birth>
+<death when="1886">1886</death>
+<sex>male</sex>
+<note><p>Born in Saratoga, N.Y., John Hyatt Smith was educated by his schoolmaster father, then sent to Detroit to work as a clerk. There he was a close friend of Anson Burlingame, who later befriended Clemens in Hawaii. Smith studied for the ministry when he wasn't clerking. After ordination in 1848 he served as a Baptist minister in Poughkeepsie, Cleveland, Buffalo, and Philadelphia before he accepted a position at the Lee Avenue Church in Brooklyn. Smith ran as an independent Republican for a seat in the US House of Representatives and served from 1881 to 1883. In December 1883 he was called by a congregational council presided over by Edward Beecher (brother of Henry Ward Beecher) to fill a temporary pastorship at the East Congregational Church in Brooklyn, where he remained until his death.</p></note>
+</person>
+```
+The biographical information is also rendered as a [network graph](http://scholarlyediting.org/2017/editions/aprilfools/graph/index.html).
+
+Clearly these kinds of data could not be printed out, and even if one attempted to print all of the biographical information and the network connections, one would lose the interactivity between texts and individuals and their various connections.
+
+#### Using TEI for documentary editions: letters and journals
+
+Here is a sample TEI template for a George Bernard Shaw letter in the SHL manuscript collection (The Stirling Collection, Senate House Library):
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from G. B. Shaw to William Burton</title>
+            <author>George Bernard Shaw</author>
+            <editor>Digital Scholarly Editing Team, London Rare Books School</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>This is a born-digital diplomatic transcription of an unpublished letter.</p>        
+         </publicationStmt>
+         <sourceDesc>
+            <p>Written on one side of a card with Shaw's stock letterhead</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <!-- do we include the pre-printed letterhead? -->
+               <address><addrLine>[Written sideways in the left margin:] to Mr. <name>William Burton</name>
+               <lb/>77 Queens Buildings
+               <lb/>Collinson Street, London SE1</addrLine></address>
+               <date when="1928-09-23">23<hi rend="superscript">rd</hi>. Sept. 1928</date>
+               <salute>Dear Sir</salute></opener>
+            <p>There is nothing in all this that your children will not be able to learn––if they want to––from books by more practiced hands.</p>
+            <p>I should have guessed you to be a young man with an itch for writing, in which case I should have recommended you to write a thousand words a day for five years to find out whether you could write professionally or not.</p>
+            <p>It takes as long to make a skilled writer as a skilled carpenter for a man of your turn of mind.</p>
+            <p>I have only just returned from the continent, where I have passed 2 months out of reach of your <choice>
+            <abbr>MS.</abbr>
+            <expan>manuscript</expan>
+            </choice>
+            </p>
+            <closer>
+               <salute>faithfully,</salute> <signed>
+                  <name>G. Bernard Shaw</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+  </text>
+</TEI>
+
+```
+You can also download the XML file by right-clicking [here](https://christopherohge.com/shaw_letter_23.09.1928.xml) and saving the file (or the link as an xml file on your desktop).
+
+Of course there is plenty more information that you could encode to properly represent this short letter document. What else would you include, and how does it fit into your text model?
