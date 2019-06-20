@@ -46,20 +46,22 @@ Access the session slides [here](../tei-intro.html).
 
 <li><p>Literalness and exactness and critical. Faithfulness?</p></li>
 
-<li><p>Modernisation and regularisation. What is lost by the editor imposing regularity and spelling changes on a historical or private document.</p></li>
+<li><p>Modernisation, regularisation, standardisation. What is lost by the editor imposing regularity and spelling changes on a historical or private document.</p></li>
 
-<li><p>Jefferson "wd hve retird immedly hd h. nt bn infmd". What is lost by expanding the abbreviations?</p></li>
+<li><p>Have a look at this [letter from Mark Twain](http://www.marktwainproject.org/xtf/view?docId=letters/UCCL00286.xml;query=proof;searchAll=;sectionType1=;sectionType2=;sectionType3=;sectionType4=;sectionType5=;style=letter;brand=mtp#1).</p></li>
 
 <li><p>Felicity to the document or to the reader?</p></li>
 
-<li><p><strong>Type facsimile:</strong> either a photographic reproduction or near approximation of every physical feature of a document.</p></li>
+<li><p><strong>Type facsimile:</strong> either a photographic reproduction or near approximation of every physical feature of a document, including line breaks and non-verbal features.</p></li>
 
-<li><p><strong>Diplomatic:</strong> "wd hve retird immedly hd h. nt bn infmd";</p>
-<p><strong>Semi-diplomatic:</strong> "w[oul]d h[a]ve retir[e]d immed[iate]ly h[a]d h[e] n[o]t b[ee]n inf[or]m[e]d";</p>
-<p><strong>Clear text:</strong> would have retired immediately had he not been informed.</p></li>
+<li><p><strong>Diplomatic:</strong> "A proof-reader who persists in making two words <sup>(& sometimes even compound words)</sup> of “anywhere” and “everything;” & who spells villainy “villiany” & “liquifies” &c, &c, is <strike>not three removes from an idiot.— </strike> <sup>infernally unreliable—</sup> & so I don’t like to trust your man.";</p>
+<p><strong>Semi-diplomatic:</strong> "A proof-reader who persists in making two words (& sometimes even compound words) of “anywhere” and “everything;” & who spells villainy “villiany” & “liquifies” &c, &c is <strike>not three removes from an idiot.— </strike> infernally unreliable—& so I don’t like to trust your man.";</p>
+<p><strong>Clear text:</strong> "A proof-reader who persists in making two words (and sometimes even compound words) of “anywhere” and “everything;” and who spells villainy “villiany” and “liquifies” etc, etc, is infernally unreliable–and so I don’t like to trust your man.".</p></li>
 
 <li><p>Yet another option, which is one of the most pragmatic, is <strong>plain text</strong>, which was conceived by the editors of the Mark Twain Project's letters edition:
-'when the documents originally sent are intact and available, we transcribe them as fully and precisely as is compatible with a highly inclusive critical text—not a literal or all-inclusive one, but a typographical transcription that is optimally legible and, at the same time, maximally faithful to the text that Clemens himself transmitted.1 Original documents are therefore emended (changed) as little as possible, which means only in order to alter, simplify, or omit what would otherwise threaten to make the transcription unreadable, or less than fully intelligible in its own right. When, however, the original documents are lost or unavailable, we necessarily rely on the most authoritative available copy of them. Since copies by their nature contain errors, nonoriginal documents are emended as much as necessary, partly for the reasons we emend originals, but chiefly to restore the text of the lost original, insofar as the evidence permits.'</p></li>
+'when the documents originally sent are intact and available, we transcribe them as fully and precisely as is compatible with a highly inclusive critical text—not a literal or all-inclusive one, but a typographical transcription that is optimally legible and, at the same time, maximally faithful to the text that Clemens himself transmitted.1 Original documents are therefore emended (changed) as little as possible, which means only in order to alter, simplify, or omit what would otherwise threaten to make the transcription unreadable, or less than fully intelligible in its own right. When, however, the original documents are lost or unavailable, we necessarily rely on the most authoritative available copy of them. Since copies by their nature contain errors, nonoriginal documents are emended as much as necessary, partly for the reasons we emend originals, but chiefly to restore the text of the lost original, insofar as the evidence permits.'</p>
+
+<p>In a sense this is similar to semi-diplomatic approach, but it is more faithful to the document.</p></li>
 
 <li><p>Yet: one cannot transcribe everything. As soon as transcription happens, an element of contingency comes into the text. It is still a representation.</p></li>
 </ul>
