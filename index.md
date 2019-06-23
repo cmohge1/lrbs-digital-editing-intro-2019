@@ -58,5 +58,5 @@ Time | Topic | Type |
 
 Time     | Topic                               | Type                    |
 :--------| :---------------------------------- |:------------------------|
-9.30 | Seminar 12: Problems with TEI; computer-assisted collation overview; publishing options | Presentation, discussion |
-11.30 | Seminar 13: More on publishing digital editions; course review | Discussion |
+9.30 | Seminar 12: Problems with TEI; computer-assisted collation overview | Presentation, discussion |
+11.30 | Seminar 13: Publishing digital editions; course review | Discussion |

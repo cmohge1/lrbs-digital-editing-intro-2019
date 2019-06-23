@@ -50,6 +50,8 @@ The traditional method of collation has been tedious: you literally read version
 
 The Hinman collator.
 
+![hinman](hinman.jpg)
+
 In most cases, machine-collation can detect differences that human eyes often miss: punctuation differences, capitalization, even entire lines of text. Two very effective methods of machine-collation can be achieved with Juxta and Collatex. Juxta is easier to use, and quite effective, but it lacks flexibility, and some texts require a lot more nuanced treatment. For more bespoke text projects with a lot of textual variation, Collatex is an option, but it involves a learning curve. It is faster and fully customizable, yet it lacks the accessible interface of Juxta. Like any other editorial project, your decision of what to use depends on your documents, and how you would like to present those documents.
 
 #### Juxta Commons Exercise
