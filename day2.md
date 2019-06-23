@@ -29,8 +29,6 @@ Time     | Topic                               | Type                    |
 
 Access the TEI intro slides [here](../tei-intro.html).
 
-Afterward, if you need to consult further aspects of basic structure, see [these slides](../TEI-core-module.pdf).
-
 #### Exercise
 
 Access the Tennyson text you worked with yesterday and encode it in TEI. You should have a preview of the transcribed text, so you just need to copy the text into oXygen and apply the correct tags using `control + E`. Also be sure to enter the required information in the TEI header: the most minimal TEI header is a <fileDesc> populated with child elements:
@@ -46,6 +44,9 @@ Populated elements with bare minimum`
 
 > Like all diplomatic transcription except type facsimile, plain text does not reproduce, simulate, or report the original lineation, pagination, or any other formal aspect of the manuscript, save where the writer intended it to bear meaning and that meaning is transcribable—which is exactly why it does reproduce or simulate many formal elements, such as various kinds of indention and purposeful lineation.
 ‘Guide to Editorial Practice, (MTDP 00005).’ In Mark Twain Project Online. Berkeley, Los Angeles, London: University of California Press. 2007.
+
+
+Access the [slides](../TEI-core-module.pdf).
 
 <details><summary>Lecture Notes</summary>
 <ul>
