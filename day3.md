@@ -47,7 +47,7 @@ Access the slides [here](LINK TBD).
 * The exercise
 * Reading
 
-### Seminar 7: Eclectic Editing
+### Seminar 7: Eclectic/copy-text/critical Editing
 
 #### Lecture Notes
 

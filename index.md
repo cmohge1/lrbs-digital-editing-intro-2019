@@ -51,7 +51,7 @@ Time | Topic | Type |
 9.30 | Seminar 9: Thinking about, writing, and encoding textual apparatus and annotation | Presentation, Discussion |
 11.30 | Seminar 10: Intro to genetic criticism, social text editing, fluid text editing with TextLab | Presentation  |
 14.00 | Seminar 11: Continue with TextLab exercise | Digital lab |
-|15.30 | Digital Approaches to Book History: A USTC demo | Presentation; Digital Lab |
+| 15.30  | Digital Approaches to Book History: A USTC demo | Presentation | 
 16.30 | Library Time |             |
 
 ### [Day 5 (Friday, 28 June)](/day5.md)
