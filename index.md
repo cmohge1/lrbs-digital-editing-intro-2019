@@ -7,7 +7,7 @@ Welcome to the site for the 2019 London Rare Books School introductory module on
 
 Convened by: Dr Christopher Ohge (Institute of English Studies)
 
-Guest Tutors: Jonathan Blaney (Institute of Historical Research), Simona Stoyanova (Institute of Classical Studies; LatinNow Project)
+Guest Tutors: Jonathan Blaney (Institute of Historical Research), Jessica Dalton (St Andrews), Simona Stoyanova (Institute of Classical Studies; LatinNow Project)
 
 **Venue: IHR Training Suite, Senate House (North Block, 3rd Floor), University of London**
 
@@ -51,7 +51,7 @@ Time | Topic | Type |
 9.30 | Seminar 9: Thinking about, writing, and encoding textual apparatus and annotation | Presentation, Discussion |
 11.30 | Seminar 10: Intro to genetic criticism, social text editing, fluid text editing with TextLab | Presentation  |
 14.00 | Seminar 11: Continue with TextLab exercise | Digital lab |
-15.30  | Digital Approaches to Book History: A USTC demo | Presentation | 
+15.30  | Digital Approaches to Book History: A USTC demo (Jessica Dalton) | Presentation |
 16.30 | Library Time |             |
 
 ### [Day 5 (Friday, 28 June)](/day5.md)
