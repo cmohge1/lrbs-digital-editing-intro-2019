@@ -155,7 +155,7 @@ You must start with a flexible text editor. By flexible I mean an editor that is
 
 ### Markdown exercise
 
-1. [Access the Markdown slides here.](https://christopherohge.com/MarkdownLRBS.pdf)
+1. [Access the Markdown slides here.](../Intro-to-markup.pdf)
 2. Download Tennyson's "Early Spring."
 3. Access the web-based Markdown editor, [Dillinger](https://dillinger.io/).
 4. Using Markdown syntax, mark up the following in the Markdown editor on the left side of the interface ([click here for the Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)):

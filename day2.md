@@ -27,7 +27,18 @@ Time     | Topic                               | Type                    |
 
 ### Introduction to the Text Encoding Initiative
 
-Access the session slides [here](../tei-intro.html).
+Access the TEI intro slides [here](../tei-intro.html).
+
+Afterward, if you need to consult further aspects of basic structure, see [these slides](../TEI-core-module.pdf).
+
+#### Exercise
+
+Access the Tennyson text you worked with yesterday and encode it in TEI. You should have a preview of the transcribed text, so you just need to copy the text into oXygen and apply the correct tags using `control + E`. Also be sure to enter the required information in the TEI header: the most minimal TEI header is a <fileDesc> populated with child elements:
+
+`<titleStmt>
+<publicationStmt>
+<sourceDesc>
+Populated elements with bare minimum`
 
 ### Editing the Classics (Simona Stoyanova)
 
