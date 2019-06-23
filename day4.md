@@ -69,7 +69,7 @@ OK, but why did the `<ptr>` element include its own `@xml:id`?
 5. Create a note to reproduce Ricks's textual headnote (hint: treat it like you would an explanatory note: create a `<back>` element?).
 6. Create a short explanatory note about some aspect of the poem.
 
-If you would like to consult the Senate House Library's manuscript of "Early Spring," you can download it [here](../readings/early-spring-ms.pdf).
+If you would like to consult the Senate House Library's manuscript of "Early Spring," you can download it [here](../early-spring-ms.pdf).
 
 #### Theories of textual fluidity
 
@@ -84,8 +84,10 @@ If you would like to consult the Senate House Library's manuscript of "Early Spr
 Some distinctions:
 
 1. New Bibliography (Greg, Bowers, Gaskell, Tanselle).
-2. Sociology of Text (McKenzie, McGann, Stillinger).
+2. Sociology of Text; Social Text (McKenzie, McGann, Stillinger, Siemens).
 3. Genetic editing (Zeller, Gabler, Hayford-Sealts, Bryant et al).
+
+For a refresher, consult the [TEI for Transcription slides](../TEI-documentary-transcription.pdf)
 
 ### Seminar 11: Using TEI to mark-up versions of texts with TextLab
 
