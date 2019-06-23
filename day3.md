@@ -149,9 +149,9 @@ The textual apparatus (app crit, hereafter) is one of the foundational aspects o
 
 Print publication: The difference between putting the app crit at the foot of the page versus in the back of the book. (Examples, from the same editor, of A. E. Houseman and Philip Larkin poems.)
 
-For digital publication, the app crit is encoded within the text. For more on this, consult the TEI Guidelines, [Chapter 12](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html).
+For digital publication, the app crit is usually encoded within the text, though you could also use empty pointers to connect apparatus entries to the `<back>`. Most use what is called the **parallel segmentation method** for complicated, nested variants.
 
-Parallel segmentation method.  
+For more on this, consult the [TEI for Critical Editions slides](../TEI-critical-editions.pdf).  
 
 #### Exercise:
 

@@ -36,16 +36,14 @@ Access the Tennyson text you worked with yesterday and encode it in TEI. You sho
 `<publicationStmt>`
 `<sourceDesc>`
 
+Access the TEI Core Module [slides here](../TEI-core-module.pdf).
+
 ### Editing the Classics (Simona Stoyanova)
 
 ### What is Documentary Editing?
 
 > Like all diplomatic transcription except type facsimile, plain text does not reproduce, simulate, or report the original lineation, pagination, or any other formal aspect of the manuscript, save where the writer intended it to bear meaning and that meaning is transcribable—which is exactly why it does reproduce or simulate many formal elements, such as various kinds of indention and purposeful lineation.
 ‘Guide to Editorial Practice, (MTDP 00005).’ In Mark Twain Project Online. Berkeley, Los Angeles, London: University of California Press. 2007.
-
-Access the TEI Core Module [slides here](../TEI-core-module.pdf).
-
-Access the TEI for transcription [slides here](../TEI-documentary-transcription.pdf)
 
 <details><summary>Lecture Notes</summary>
 <ul>
@@ -78,6 +76,8 @@ Access the TEI for transcription [slides here](../TEI-documentary-transcription.
 </ul>
 </details>
 <br />
+
+Access the TEI for transcription [slides here](../TEI-documentary-transcription.pdf)
 
 [Example 1: Mark Twain's notebooks and journals. Access slides here.](https://christopherohge.com/mark-twain-journals.pdf)
 

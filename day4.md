@@ -24,15 +24,16 @@ Then we will review recent textual scholarship on versions, genetic criticism, a
 Time | Topic | Type |
 :----|:------|:-----|
 9.30 | Seminar 9: Thinking about, writing, and encoding textual apparatus and annotation | Presentation, Discussion |
-11.30 | Seminar 10: Intro to genetic criticism, social text editing, fluid text editing | Digital lab  |
-14.00 | Seminar 11: Using TextLab to create manuscript-based genetic editions in TEI | Digital lab |
-15.30 | Demonstration: Digital Approaches to Book History with USTC (Jessica Dalton) | Presentation            |
+11.30 | Seminar 10: Intro to genetic criticism, social text editing, fluid text editing with TextLab | Presentation  |
+14.00 | Seminar 11: Continue with TextLab exercise | Digital lab |
+|15.30 | Digital Approaches to Book History: A USTC demo | Presentation; Digital Lab |
+16.30 | Library Time |             |
 
 #### Principles of Annotation
 
 [Click here to download the handout on annotation](/readings/on-notes.pdf)
 
-Dr Johnson's maxim: to correct what is corrupt, and clarify what is obscure.
+Dr Johnson's maxim about editing: the goal is to correct what is corrupt, and clarify what is obscure.
 
 William Empson: a great thinker about notes. See Empson's Introduction to the Notes to his *Collected Poems* (in the annotation handout). See also [Empson on annotation](/readings/empson-obscurity-and-annotation.pdf).
 
@@ -71,8 +72,6 @@ OK, but why did the `<ptr>` element include its own `@xml:id`?
 
 If you would like to consult the Senate House Library's manuscript of "Early Spring," you can download it [here](../early-spring-ms.pdf).
 
-#### Theories of textual fluidity
-
 ### Seminar 10: Genetic criticism, social text editing, fluid text editing
 
 #### Readings
@@ -80,6 +79,8 @@ If you would like to consult the Senate House Library's manuscript of "Early Spr
 1. McGann, *Critique of Modern Textual Criticism*.
 2. Bryant, *The Fluid Text*.
 3. [Hayford-Sealts genetic transcription of Melville's *Billy Budd*](https://christopherohge.com/hayford-sealts-billy-budd-transcription.pdf).
+
+#### Theories of textual fluidity
 
 Some distinctions:
 
@@ -91,7 +92,7 @@ For a refresher, consult the [TEI for Transcription slides](../TEI-documentary-t
 
 ### Seminar 11: Using TEI to mark-up versions of texts with TextLab
 
-<details><summary>General Instructions</summary>
+General Instructions
 
 <p>1. Go to <https://app.textlab.org/users/sign_in> and click "Sign Up." Enter your details and make sure to select "University of London" under "Institutional Sponsor."</p>
 
@@ -122,10 +123,9 @@ For a refresher, consult the [TEI for Transcription slides](../TEI-documentary-t
 <p>9. Once it is accepted and re-shared, one can then input revision narratives.</p>
 
 <p>10. To create a revision narrative, double-click on the boxed revision site, and click "New sequence." The top level will show the zone number of the box and the bottom will allow to compose a revision narrative.</p>
-</details>
 
 [Click here to download a PDF of the entire Hayford-Sealts transcription](https://christopherohge.com/hayford-sealts-billy-budd-transcription.pdf).
 
 The ongoing digital edition can be found at the [Melville Electronic Library](http://mel-juxta-editions.herokuapp.com/documents/631).
 
-#### USTC Demo (Jessica Dalton, University of St Andrews)
+### USTC Demo (Jessica Dalton, University of St Andrews)

@@ -41,21 +41,22 @@ Time | Topic | Type |
 :----|:-----|:------|
 9.30 | Seminar 6: Editing Early Modern Texts; EEBO and the Text Creation Partnership (Jonathan Blaney) | Presentation, Discussion |
 11.30  | Seminar 7: Eclectic/clear text editing; Critical Apparatus | Digital lab |
-14.00 (in Senate House Library Special Collections) | Seminar 8: Text modelling with rare books and manuscripts; Encoding fiction, drama, poems––and marginalia? | Discussion; Digital lab |
-16.00 | Library Time |
+14.00 (in Senate House Library Special Collections) | Seminar 8: Discussion of textual problems with rare books and manuscripts; encoding fiction, drama, poems––and marginalia? | Discussion; Digital lab |
+|16.00   | Library time   |   |
 
 ### [Day 4 (Thursday, 27 June)](/day4.md)
 
 Time | Topic | Type |
 :----|:------|:-----|
 9.30 | Seminar 9: Thinking about, writing, and encoding textual apparatus and annotation | Presentation, Discussion |
-11.30 | Seminar 10: Intro to genetic criticism, social text editing, fluid text editing | Digital lab  |
-14.00 | Seminar 11: Using TextLab to create manuscript-based genetic editions in TEI | Digital lab |
-16.00 | Library Time |             |
+11.30 | Seminar 10: Intro to genetic criticism, social text editing, fluid text editing with TextLab | Presentation  |
+14.00 | Seminar 11: Continue with TextLab exercise | Digital lab |
+|15.30 | Digital Approaches to Book History: A USTC demo | Presentation; Digital Lab |
+16.30 | Library Time |             |
 
 ### [Day 5 (Friday, 28 June)](/day5.md)
 
 Time     | Topic                               | Type                    |
 :--------| :---------------------------------- |:------------------------|
-9.30 | Seminar 12: Problems with TEI; Computer-Assisted Collation Overview | Presentation, Digital lab |
-11.30 | Seminar 13: Open discussion on publishing digital editions; course review | Discussion |
+9.30 | Seminar 12: Problems with TEI; computer-assisted collation overview; publishing options | Presentation, discussion |
+11.30 | Seminar 13: More on publishing digital editions; course review | Discussion |
