@@ -44,7 +44,7 @@ Populated elements with bare minimum`
 > Like all diplomatic transcription except type facsimile, plain text does not reproduce, simulate, or report the original lineation, pagination, or any other formal aspect of the manuscript, save where the writer intended it to bear meaning and that meaning is transcribable—which is exactly why it does reproduce or simulate many formal elements, such as various kinds of indention and purposeful lineation.
 ‘Guide to Editorial Practice, (MTDP 00005).’ In Mark Twain Project Online. Berkeley, Los Angeles, London: University of California Press. 2007.
 
-Access the [slides](../TEI-core-module.pdf).
+Access the [slides here](../TEI-core-module.pdf).
 
 <details><summary>Lecture Notes</summary>
 <ul>
@@ -69,9 +69,9 @@ Access the [slides](../TEI-core-module.pdf).
 <p><strong>Clear text:</strong> "A proof-reader who persists in making two words (and sometimes even compound words) of “anywhere” and “everything;” and who spells villainy “villiany” and “liquifies” etc, etc, is infernally unreliable–and so I don’t like to trust your man.".</p></li>
 
 <li><p>Yet another option, which is one of the most pragmatic, is <strong>plain text</strong>, which was conceived by the editors of the Mark Twain Project's letters edition:
-'when the documents originally sent are intact and available, we transcribe them as fully and precisely as is compatible with a highly inclusive critical text—not a literal or all-inclusive one, but a typographical transcription that is optimally legible and, at the same time, maximally faithful to the text that Clemens himself transmitted.1 Original documents are therefore emended (changed) as little as possible, which means only in order to alter, simplify, or omit what would otherwise threaten to make the transcription unreadable, or less than fully intelligible in its own right. When, however, the original documents are lost or unavailable, we necessarily rely on the most authoritative available copy of them. Since copies by their nature contain errors, nonoriginal documents are emended as much as necessary, partly for the reasons we emend originals, but chiefly to restore the text of the lost original, insofar as the evidence permits.'</p>
+'when the documents originally sent are intact and available, we transcribe them as fully and precisely as is compatible with a highly inclusive critical text—not a literal or all-inclusive one, but a typographical transcription that is optimally legible and, at the same time, maximally faithful to the text that Clemens himself transmitted.1 Original documents are therefore emended (changed) as little as possible, which means only in order to alter, simplify, or omit what would otherwise threaten to make the transcription unreadable, or less than fully intelligible in its own right. When, however, the original documents are lost or unavailable, we necessarily rely on the most authoritative available copy of them. Since copies by their nature contain errors, nonoriginal documents are emended as much as necessary, partly for the reasons we emend originals, but chiefly to restore the text of the lost original, insofar as the evidence permits.'</p></li>
 
-<p>In a sense this is similar to semi-diplomatic approach, but it is more faithful to the document.</p></li>
+<li><p>In a sense this is similar to semi-diplomatic approach, but it is more faithful to the document.</p></li>
 
 <li><p>Yet: one cannot transcribe everything. As soon as transcription happens, an element of contingency comes into the text. It is still a representation.</p></li>
 </ul>
