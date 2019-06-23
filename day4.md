@@ -31,11 +31,11 @@ Time | Topic | Type |
 
 #### Principles of Annotation
 
-[Click here to download the handout on annotation](/readings/on-notes.pdf)
+[Click here to download the handout on annotation](../readings/on-notes.pdf)
 
 Dr Johnson's maxim about editing: the goal is to correct what is corrupt, and clarify what is obscure.
 
-William Empson: a great thinker about notes. See Empson's Introduction to the Notes to his *Collected Poems* (in the annotation handout). See also [Empson on annotation](/readings/empson-obscurity-and-annotation.pdf).
+William Empson: a great thinker about notes. See Empson's Introduction to the Notes to his *Collected Poems* (in the annotation handout). See also [Empson on annotation](../readings/empson-obscurity-and-annotation.pdf).
 
 Remember that the essence of the app crit in TEI is the `<app>` element, which contains at least `<rdg>` elements with `@wit` attributes. If you would like to replicate Ricks's app crit, you'll want to also nest a `<lem>` element (a lemma) so that you can represent the preferred reading (the lemma) which points to its variants at the foot of the page. More information about app crit in TEI can be found in [Chapter 12](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html) of the *TEI Guidelines*.
 

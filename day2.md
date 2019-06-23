@@ -19,7 +19,7 @@ Time     | Topic                               | Type                    |
 
 ### Readings
 
-1. G. Thomas Tanselle, ["The Editing of Historical Documents."](/readings/tanselle_editing_historical _documents.pdf)
+1. G. Thomas Tanselle, ["The Editing of Historical Documents."](../readings/tanselle_editing_historical _documents.pdf)
 2. Lou Burnard, [*What is the TEI?*](https://books.openedition.org/oep/426)
 3. James Cummings, ["The Text Encoding Initiative and the Study of Literature"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-6&toc.depth=1&toc.id=ss1-6-6&brand=9781405148641_brand)
 4. Elena Pierazzo, *Digital Scholarly Editing* (Chapter 2).
