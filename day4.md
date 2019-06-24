@@ -129,3 +129,7 @@ General Instructions
 The ongoing digital edition can be found at the [Melville Electronic Library](http://mel-juxta-editions.herokuapp.com/documents/631).
 
 ### USTC Demo (Jessica Dalton, University of St Andrews)
+
+The Universal Short Title Catalogue has recently released a revamped set of tools.
+
+#### Proceed to [Day 5](day5.md)

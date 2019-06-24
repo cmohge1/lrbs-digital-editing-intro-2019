@@ -48,7 +48,7 @@ How does that compare to TEI encoding?
 
 The traditional method of collation has been tedious: you literally read versions of texts side-by-side and note the differences in a collation table.
 
-The Hinman collator.
+The Hinman collator at work.
 
 ![hinman](hinman.jpg)
 

@@ -272,3 +272,5 @@ Here is a sample TEI template for a George Bernard Shaw letter in the SHL manusc
 You can also download the XML file by right-clicking [here](https://christopherohge.com/shaw_letter_23.09.1928.xml) and saving the file (or the link as an xml file on your desktop).
 
 Of course there is plenty more information that you could encode to properly represent this short letter document. What else would you include, and how does it fit into your text model?
+
+#### Proceed to [Day 4](day4.md)
