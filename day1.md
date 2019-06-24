@@ -106,7 +106,7 @@ Time      | Topic  | Type    |
 <details>
   <summary>Editing and history</summary> <!-- fill in more here -->
   <ul>
-  <li><p>Interplay between "science" or "scholarship" and "criticism"; the problem of *scientism*.
+  <li><p>Interplay between "science" or "scholarship" and "criticism"; the problem of *scientism*.</p></li>
   <li><p>An act of historical scholarship which requires an answer to this question: "What role do judgment and evaluation play in reconstructing the past?" (Tanselle, 10).</p></li>
   <li><p>Texts of <strong>documents</strong> v. text of <strong>works</strong>.</p></li>
   <li><p>Is editing historical or ahistorical?</p></li>
