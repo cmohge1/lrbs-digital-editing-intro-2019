@@ -36,6 +36,8 @@ Access the Tennyson text you worked with yesterday and encode it in TEI. You sho
 `<publicationStmt>`
 `<sourceDesc>`
 
+Once you have the basic structure, add some attributes such as dd @n and @xml:id to elements.
+
 Access the TEI Core Module [slides here](../TEI-core-module.pdf).
 
 ### Editing the Classics (Simona Stoyanova)
@@ -96,6 +98,6 @@ https://tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSOC
 
     - If you get stuck, consult [these slides](TEI-for-Correspondence.pdf).
 
-4. Add @n attributes and @xml:id to elements.
+4.
 
 #### Proceed to [Day 3](day3.md)
