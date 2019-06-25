@@ -35,6 +35,8 @@ Time      | Topic  | Type    |
 
 #### Lecture notes
 
+Access the slideshow [here](../intro-textual-editing.pdf).
+
 <details>
   <summary>A brief outline of textual scholarship </summary>
   <br />

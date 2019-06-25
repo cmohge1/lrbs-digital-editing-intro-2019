@@ -50,7 +50,7 @@ For the exercise, download this [epiDoc template file](../ex-epidoctemplate.xml)
 
 For more informations, access this [epiDoc structural cheatsheet](../structure-cheatsheet.pdf).
 
-Also, a slideshow on [textual corrections](https://docs.google.com/presentation/d/1aZs8lOEnb4iD-xPK3Q24oVabV9qMxBrW3JieKHme6QU/edit?usp=sharing). 
+Also, a slideshow on [textual corrections](https://docs.google.com/presentation/d/1aZs8lOEnb4iD-xPK3Q24oVabV9qMxBrW3JieKHme6QU/edit?usp=sharing).
 
 ### What is Documentary Editing?
 
@@ -95,19 +95,81 @@ Access the TEI for transcription [slides here](../TEI-documentary-transcription.
 
 [Example 2: Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
 
+### Text Modelling
+
+"[E]very electronic representation of text is an interpretation" (Paul Eggert, *Securing the Past*, Cambridge UP, 2009).
+
+And an argument, many say. Are these points obvious, or absurd?
+
+Modelling: Our notions of modelling a text are really inherent in textual editing activities, but the theorising about modeling could point back to Willard McCarty's insistence on the centrality of modelling in digital humanities projects (see his *Humanities Computing*, Palgrave, 2005).
+
+Patrick Sahle's model (of text modelling):
+
+![Sahle_model](/Day2/patrick_sahle_modelling.jpg)
+
+(For the full slideshow, go to <http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf>. And for his essay on the subject, click go to <https://www.openbookpublishers.com/htmlreader/978-1-78374-238-7/ch2.xhtml>.)
+
+Sahle also provided a useful distinction of the 'digitised' versus the 'digital' edition. A work that is 'digitised' tends to mimic the codex––it is a page by page rendering. This form of digitisation is usually a PDF or even a hypertext marked up in html. But it is not interactive. A digital edition can only fully function in the digital realm––that is, if you have to print a digital edition, the edition would lose its functionality. The digital edition is more interactive  
+
+What really distinguishes the two?
+
+*Textons* versus *scriptons*: one of the distinguishing features of digital editing. A *texton* is all of the data that appears in the text file, while a *scripton* is the text as it appears to the user of the edition (see Pierazzo, Digital Scholarly Editing, p. 34). Put another way, it is raw source data versus the output that users see in the interface.
+
+For example: in a recent documentary editing project on incoming letters to Mark Twain as part of an 1884 April Fools joke, each person is tagged with a pointer to a "personography" (a TEI file listing biographical information):
+
+```
+<text type="letter">
+    <body>
+      <pb facs="smith01.jpg" xml:id="pb0001" n="1"/>
+      <head type="metadata">
+        <name corresp="#JHS">J. Hyatt Smith</name> to <addressee>
+          <name corresp="#SLC">Samuel L. Clemens</name>
+        </addressee>
+        <date when="1884-03-28">28 March 1884</date> &#8226; <name type="place">Brooklyn, N.Y.</name>
+        <sourceline>(MS: CU-MARK, UCLC 41833)</sourceline>
+      </head>
+```
+
+The #JHS and #SLC attributes point to @xml:id attributes in a separate personography file:
+
+```
+...</fileDesc>
+...
+<profileDesc>
+<particDesc>
+<listPerson>
+<person xml:id="JHS">
+<persName type="display">Rev. J. Hyatt Smith</persName>
+<persName type="full"><surname>Smith</surname>, <forename type="first">John</forename> <forename type="middle">Hyatt</forename></persName>
+<birth when="1824">1824</birth>
+<death when="1886">1886</death>
+<sex>male</sex>
+<note><p>Born in Saratoga, N.Y., John Hyatt Smith was educated by his schoolmaster father, then sent to Detroit to work as a clerk. There he was a close friend of Anson Burlingame, who later befriended Clemens in Hawaii. Smith studied for the ministry when he wasn't clerking. After ordination in 1848 he served as a Baptist minister in Poughkeepsie, Cleveland, Buffalo, and Philadelphia before he accepted a position at the Lee Avenue Church in Brooklyn. Smith ran as an independent Republican for a seat in the US House of Representatives and served from 1881 to 1883. In December 1883 he was called by a congregational council presided over by Edward Beecher (brother of Henry Ward Beecher) to fill a temporary pastorship at the East Congregational Church in Brooklyn, where he remained until his death.</p></note>
+</person>
+...
+</listPerson>
+</particDesc>
+</profileDesc>
+```
+The biographical information is also rendered as a [network graph](http://scholarlyediting.org/2017/editions/aprilfools/graph/index.html).
+
+Clearly these kinds of data could not be printed out, and even if one attempted to print all of the biographical information and the network connections, one would lose the interactivity between texts and individuals and their various connections.
+
 #### Exercise: Using TEI for documentary editions: letters
 
-1. Download [this letter](shaw_letter_23_09_1928.jpg) from George Bernard Shaw to Mark Twain (Senate House Library, Sterling Collection).
-2. Consult the transcription slides to consider what kinds of elements should be used.
-3. What TEI module would be most appropriate?
+Consult these [slides](../TEI-for-correspondence.pdf) to learn more about correspondence editing.
 
+1. Download [this letter](shaw_letter_23_09_1928.jpg) from George Bernard Shaw to Mark Twain (Senate House Library, Sterling Collection).
+2. Consult the transcription and correspondence slides to consider what kinds of elements should be used.
+3. What TEI module would be most appropriate?
     - See Chapter 4 of the TEI Guidelines, for a reminder on text structure:
 https://tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSOC
-
     - Chapter 2 of the TEI guidelines, for <correspDesc>: https://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html#HD44CD
-
-    - If you get stuck, consult [these slides](TEI-for-Correspondence.pdf).
-
-4.
+4. How would you encode the pre-printed header material?
+5. Create `<profileDesc>` element in your `<teiHeader>` (not within the `<fileDesc>` but rather as a sibling, or *outside*, of it). Within `<profileDesc>`, create a `<correspDesc>` element to add more metadata about the letter.
+6. Create a personography entry for Shaw and his correspondent within `<profileDesc>` (and a sibling element to `<correspDesc>`).
+7. **BONUS**: Create a list of place names by adding a sibling element to `<particDesc>` called `<settingsDesc>`, and within that, create a `<listPlace>`
+`<place>PLACENAME</place>`
+`</listPlace>`
 
 #### Proceed to [Day 3](day3.md)
