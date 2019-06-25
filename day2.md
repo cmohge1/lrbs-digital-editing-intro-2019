@@ -3,7 +3,7 @@ layout: page
 title:  "Day 2"
 permalink: /day2/
 ---
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:1 depthTo:4 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Tuesday, 25 June 2019](#tuesday-25-june-2019)
 	- [Summary](#summary)
@@ -117,7 +117,7 @@ Modelling: Our notions of modelling a text are really inherent in textual editin
 
 Patrick Sahle's model (of text modelling):
 
-![Sahle_model](/Day2/patrick_sahle_modelling.jpg)
+![Sahle_model](../patrick_sahle_modelling.jpg)
 
 (For the full slideshow, go to <http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf>. And for his essay on the subject, click go to <https://www.openbookpublishers.com/htmlreader/978-1-78374-238-7/ch2.xhtml>.)
 
@@ -187,4 +187,4 @@ https://tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSOC
 `<place>PLACENAME</place>`
 `</listPlace>`
 
-**Proceed to [Day 3](day3.md)**
+##### Proceed to [Day 3](day3.md)

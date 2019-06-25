@@ -26,7 +26,7 @@ Time | Topic | Type |
 16.00 | Library Time |
 
 
-#### Readings
+### Readings
 
 1. [W. W. Greg, "The Rationale of Copy Text"](https://christopherohge.com/greg_rationale_copy-text.pdf)
 2. [Fredson Bowers, "Some Principles..."](../readings/bowers_principles.pdf)
@@ -273,4 +273,4 @@ You can also download the XML file by right-clicking [here](https://christophero
 
 Of course there is plenty more information that you could encode to properly represent this short letter document. What else would you include, and how does it fit into your text model?
 
-#### Proceed to [Day 4](day4.md)
+##### Proceed to [Day 4](day4.md)
