@@ -19,21 +19,57 @@
         </fileDesc>
         <profileDesc>
             <correspDesc>
-                <correspAction>
-                    <p></p>
+                <correspAction type="sent">
+                    <name ref="#GBS">Shaw</name>
+                    <placeName ref="#l1">London</placeName>
+                    <date when="1928-09-28"> 28 Sept. 1928</date>
+                </correspAction>
+                <correspAction type="received">
+                    <note>Unknown</note>
                 </correspAction>
                 <correspContext>
-                    <p></p>
+                    <p>They are not known to have corresponded further.</p>
                 </correspContext>
             </correspDesc>
             <particDesc>
                 <listPerson>
-                    <person></person>
+                    <person xml:id="GBS">
+                        <persName>
+                            <forename>George</forename>
+                            <forename>Bernard</forename>
+                            <surname>Shaw</surname>
+                        </persName>
+                        <note>George Bernard Shaw was an Irish playwright.</note>
+                        <birth when="1856-07-26">July 26, 1856</birth>
+                        <death when="1950-11-02">November 2, 1950</death>
+                        <residence>
+                            <settlement>Dublin</settlement>
+                            <country>Ireland</country>
+                        </residence>
+                        <residence>
+                            <settlement>London</settlement>
+                            <country>United Kingdom</country>
+                        </residence>
+                        <residence>
+                            <settlement>Ayot St Lawrence</settlement>
+                            <region>Hertfordshire</region>
+                            <country>United Kingdom</country>
+                        </residence>
+                    </person>
+                    <person xml:id="WB">
+                        <persName>
+                            <forename>William</forename>
+                            <surname>Burton</surname>
+                        </persName>
+                        <note>Nothing is known about this person. Absolutely nothing.</note>
+                    </person>
                 </listPerson>
             </particDesc>
             <settingDesc>
                 <listPlace>
-                    <place></place>
+                    <place xml:id="l1">
+                        <placeName>London is the capital of Great Britain.</placeName>
+                    </place>
                 </listPlace>
             </settingDesc>
         </profileDesc>
@@ -45,7 +81,7 @@
                     <!-- do we include the pre-printed letterhead? -->
                     <address><addrLine>[Written sideways in the left margin:] to Mr. <name>William Burton</name>
                         <lb/>77 Queens Buildings
-                        <lb/>Collinson Street, London SE1</addrLine></address>
+                        <lb/>Collinson Street, <placeName ref="#l1">London</placeName> SE1</addrLine></address>
                     <date when="1928-09-23">23<hi rend="superscript">rd</hi>. Sept. 1928</date>
                     <salute>Dear Sir</salute></opener>
                 <p>There is nothing in all this that your children will not be able to learn––if they want to––from books by more practiced hands.</p>
@@ -58,7 +94,7 @@
                 </p>
                 <closer>
                     <salute>faithfully,</salute> <signed>
-                        <name>G. Bernard Shaw</name>
+                        <name ref="#GBS">G. Bernard Shaw</name>
                     </signed>
                 </closer>
             </div>

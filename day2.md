@@ -187,4 +187,6 @@ https://tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSOC
 `<place>PLACENAME</place>`
 `</listPlace>`
 
+If you get stuck, consult this encoding of the letter [here](../shaw-letter.xml).
+
 ##### Proceed to [Day 3](day3.md)
