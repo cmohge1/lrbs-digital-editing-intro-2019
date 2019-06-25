@@ -3,6 +3,23 @@ layout: page
 title:  "Day 1"
 permalink: /day1/
 ---
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Monday, 24 June 2019](#monday-24-june-2019)
+	- [Aims](#aims)
+	- [Schedule](#schedule)
+		- [Seminar 1: Brief History of Scholarly Editing](#seminar-1-brief-history-of-scholarly-editing)
+			- [Readings](#readings)
+			- [Lecture notes](#lecture-notes)
+		- [Seminar 2: Digital Editing Workflow](#seminar-2-digital-editing-workflow)
+			- [Reading](#reading)
+			- [Lecture notes](#lecture-notes)
+		- [Markdown exercise](#markdown-exercise)
+		- [Brief Introduction to XML](#brief-introduction-to-xml)
+			- [Exercise](#exercise)
+			- [Proceed to [Day 2](day2.md)](#proceed-to-day-2day2md)
+
+<!-- /TOC -->
 
 # Monday, 24 June 2019
 
