@@ -4,7 +4,21 @@ title:  "Day 3"
 permalink: /day3/
 ---
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0-->
 
+- [Wednesday, 26 June 2019](#wednesday-26-june-2019)
+  - [Summary](#summary)
+  - [Aims](#aims)
+  - [Outline](#outline)
+    - [Readings](#readings)
+    - [Seminar 6: EEBO-TCP](#seminar-6-eebo-tcp)
+    - [Seminar 7: Eclectic/copy-text/critical Editing](#seminar-7-eclecticcopy-textcritical-editing)
+      - [Lecture Notes](#lecture-notes)
+      - [The *apparatus criticus*](#the-apparatus-criticus)
+      - [Exercise:](#exercise)
+    - [Seminar 8: Open discussion of editorial problems with special collections](#seminar-8-open-discussion-of-editorial-problems-with-special-collections)
+
+<!-- /TOC -->
 
 # Wednesday, 26 June 2019
 
