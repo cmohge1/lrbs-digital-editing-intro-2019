@@ -1,6 +1,6 @@
 # Synopsis
 
-Welcome to the London Rare Books School summer 2019 module on Digital Scholarly Editing: An Introduction (2-6 June). This week will be an intense study of the traditions and principles of scholarly editing, coupled with a bootcamp on the fundamentals of creating digital editions.
+Welcome to the London Rare Books School summer 2019 module on Digital Scholarly Editing: An Introduction (24-28 June). This week will be an intense study of the traditions and principles of scholarly editing, coupled with a bootcamp on the fundamentals of creating digital editions.
 
 Course readings are either hyperlinked in the plan of each of day or downloadable in the [readings subdirectory](/readings). (Please save paper by reading these on your computer or tablet.)
 
@@ -16,15 +16,15 @@ Course readings are either hyperlinked in the plan of each of day or downloadabl
 
 ## Schedule
 
-Day 1: [Brief History of Scholarly Editing; Transcription and digital workflow](/day_1_plan.md).
+Day 1: [Brief History of Scholarly Editing; Transcription and digital workflow](/day1.md).
 
-Day 2: [Documentary Editing; Introduction to the Text Encoding Initiative (TEI)](/day_2_plan.md).
+Day 2: [Documentary Editing; Introduction to the Text Encoding Initiative (TEI)](/day2.md).
 
 Day 3: [Eclectic editing; TEI continued](/day_3_plan.md).
 
-Day 4: [Genetic Criticism, Sociology of Text, and Fluid Text Editing; customising TEI](/day_4_plan.md).
+Day 4: [Genetic Criticism, Sociology of Text, and Fluid Text Editing; customising TEI](/day4.md).
 
-Day 5: [Alternative markup; Computer-assisted collation; Open discussion on publishing editions](/day_5_plan.md).
+Day 5: [Alternative markup; Computer-assisted collation; Open discussion on publishing editions](/day5.md).
 
 ## Detailed Schedule (Subject to Change)
 
@@ -64,6 +64,7 @@ Time | Topic | Type |
 9.30 | Seminar 9: Thinking about, writing, and encoding textual apparatus and annotation | Presentation, Discussion |
 11.30 | Seminar 10: Intro to genetic criticism, social text editing, fluid text editing | Digital lab  |
 14.00 | Seminar 11: Using TextLab to create manuscript-based genetic editions in TEI | Digital lab |
+15.30 | Digital Approaches to Book History demo: USTC (Jessica Dalton) | Presentation |
 16.00 | Library Time |             |
 
 ### Day 5 (Friday, 28 June)
