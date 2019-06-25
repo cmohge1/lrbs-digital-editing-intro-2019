@@ -172,7 +172,7 @@ Clearly these kinds of data could not be printed out, and even if one attempted 
 
 #### Exercise: Using TEI for documentary editions: letters
 
-Consult these [slides](../TEI-for-correspondence.pdf) to learn more about correspondence editing.
+Consult these [slides](../TEI-for-Correspondence.pdf) to learn more about correspondence editing.
 
 1. Download [this letter](shaw_letter_23_09_1928.jpg) from George Bernard Shaw to Mark Twain (Senate House Library, Sterling Collection).
 2. Consult the transcription and correspondence slides to consider what kinds of elements should be used.
