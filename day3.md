@@ -154,11 +154,17 @@ Greg's pragmatism: "The fact is that cases of revision differ so greatly in circ
 <ul>Bowers essentially stretches the argument to the context of nineteenth century editing. He accepts the authority of the manuscript, and that the default assumption of the editor is to privilege the manuscript over the printed source (if there is no evidence the author oversaw the printing, that is). Printing simply introduces too many errors and deviates from the author's wishes.</ul>
 </details>
 
+<details><summary>Gaskell and Tanselle methods</summary>
+<ul>Gaskell's approach is to generally prioritise the first printed edition.</ul>
+<ul>Tanselle's approach is rather pragmatic: are you more interested in the verbal messages in the work, or in the social forces that shaped it?</ul>
+<ul>Returning to that texts of documents v. texts of works distinction: not only are they categorically different, but texts of documents may be "faulty witnesses" to the <em>intended work</em>. By accepting the text-as-document, the editor is binding themselves to historical contingencies that may be ultimately unintended.</ul>
+</details>
+
 <details><summary>A "radiating" text</summary>
 <ul>Sometimes a text can only be established from copies of lost originals (more often the case with pre-Renaissance texts, but it still happens in the nineteenth century with, say, newspaper printings of lost manuscript texts).</ul>
 <ul>Bucci: </ul>
 </details>
-
+<br />
 Example 1: Shakespeare: [<em>King Lear</em>](../readings/greg-on-king-lear.pdf) and [<em>Othello</em>](../readings/greg-on-othello.pdf). See Greg, from *Editorial Problems in Shakespeare* and [Brian Vickers](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).
 
 Example 2: Milton. See [Gaskell on <em>Comus</em>](../readings/Gaskell_on_Milton.pdf); see also Empson on Bentley's editing of Milton in <em>Some Versions of Pastoral</em>.
