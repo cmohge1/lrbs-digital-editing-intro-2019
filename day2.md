@@ -42,6 +42,14 @@ Access the TEI Core Module [slides here](../TEI-core-module.pdf).
 
 ### Editing the Classics (Simona Stoyanova)
 
+Access the slides [here](https://docs.google.com/presentation/d/1FsiPhMiwASHfh8kN-MrM5OiP-45rmK4n_VvTbki8RBw/edit?usp=sharing).
+
+And a [cheatsheet](../cheatsheet.pdf).
+
+For the exercise, download this [epiDoc template file](../ex-epidoctemplate.xml).
+
+For more informations, access this [epiDoc structural cheatsheet](../structure-cheatsheet.pdf).
+
 ### What is Documentary Editing?
 
 > Like all diplomatic transcription except type facsimile, plain text does not reproduce, simulate, or report the original lineation, pagination, or any other formal aspect of the manuscript, save where the writer intended it to bear meaning and that meaning is transcribable—which is exactly why it does reproduce or simulate many formal elements, such as various kinds of indention and purposeful lineation.
