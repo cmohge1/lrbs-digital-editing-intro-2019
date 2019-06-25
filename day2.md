@@ -83,4 +83,19 @@ Access the TEI for transcription [slides here](../TEI-documentary-transcription.
 
 [Example 2: Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
 
+#### Exercise: Using TEI for documentary editions: letters
+
+1. Download [this letter](shaw_letter_23_09_1928.jpg) from George Bernard Shaw to Mark Twain (Senate House Library, Sterling Collection).
+2. Consult the transcription slides to consider what kinds of elements should be used.
+3. What TEI module would be most appropriate?
+
+    - See Chapter 4 of the TEI Guidelines, for a reminder on text structure:
+https://tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSOC
+
+    - Chapter 2 of the TEI guidelines, for <correspDesc>: https://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html#HD44CD
+
+    - If you get stuck, consult [these slides](TEI-for-Correspondence.pdf).
+
+4. Add @n attributes and @xml:id to elements.
+
 #### Proceed to [Day 3](day3.md)
