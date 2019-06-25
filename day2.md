@@ -130,9 +130,11 @@ For example: in a recent documentary editing project on incoming letters to Mark
       </head>
 ```
 
-The #JHS and #SLC attributes point to @xml:id attributes in a separate personography file:
+In this project, #JHS and #SLC attributes point to @xml:id attributes in a separate personography file, but you could also encode the personography data within your `<teiHeader>` like this:
 
 ```
+<teiHeader> ...
+<fileDesc> ...
 ...</fileDesc>
 ...
 <profileDesc>
@@ -150,6 +152,7 @@ The #JHS and #SLC attributes point to @xml:id attributes in a separate personogr
 </listPerson>
 </particDesc>
 </profileDesc>
+</teiHeader>
 ```
 The biographical information is also rendered as a [network graph](http://scholarlyediting.org/2017/editions/aprilfools/graph/index.html).
 
