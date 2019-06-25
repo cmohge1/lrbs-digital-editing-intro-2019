@@ -158,7 +158,8 @@ Greg's pragmatism: "The fact is that cases of revision differ so greatly in circ
 <ul>Gaskell's approach is to generally prioritise the first printed edition.</ul>
 <ul>Tanselle's approach is rather pragmatic: are you more interested in the verbal messages in the work, or in the social forces that shaped it?</ul>
 <ul>Returning to that texts of documents v. texts of works distinction: not only are they categorically different, but texts of documents may be "faulty witnesses" to the <em>intended work</em>. By accepting the text-as-document, the editor is binding themselves to historical contingencies that may be ultimately unintended.</ul>
-<ul>Editors must negotiate whether their judgments are based on artefacts or "trained imagination."</ul>
+<ul>Editors must negotiate whether their judgments are based on artefacts or "trained imagination." <em>Critical editing</em> involves the editor's decision to alter (even if slightly) what is evident in the text-as-document, and to create a new text-as-work through <e>recension</em>. What is that? It is the practice of reconstructing that text by choosing authoritative readings from multiple variants. This can often involve <em>conjectural emendations</em>, which alter the text based on a perceived right than on any reading from a surviving document.</ul>
+<ul>"A copy-text is a text to fall back on when all else fails" ("Varieties," 23).</ul>
 </details>
 
 <details><summary>A "radiating" text</summary>
