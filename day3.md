@@ -152,17 +152,20 @@ Greg's pragmatism: "The fact is that cases of revision differ so greatly in circ
 <details><summary>The Bowers method</summary>
 <br />
 <ul>Bowers essentially stretches the argument to the context of nineteenth century editing. He accepts the authority of the manuscript, and that the default assumption of the editor is to privilege the manuscript over the printed source (if there is no evidence the author oversaw the printing, that is). Printing simply introduces too many errors and deviates from the author's wishes.</ul>
-<br />
-
-<ul>Example 1: Shakespeare: [<em>King Lear</em>](../readings/greg-on-king-lear.pdf) and [<em>Othello</em>](../readings/greg-on-othello.pdf). See Greg, from *Editorial Problems in Shakespeare* and [Brian Vickers](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).</ul>
-<br />
-<ul>Example 2: Milton. See [Gaskell on <em>Comus</em>](../readings/Gaskell_on_Milton.pdf); see also Empson on Bentley's editing of Milton in <em>Some Versions of Pastoral</em>.</ul>
-<br />
-<ul>Example 3: Dickens's <em>David Copperfield</em>. [See Gaskell on Dickens](../readings/Gaskell_on_Dickens.pdf).</ul>
-<br />
-<ul>Example 4: [Mark Twain's <em>Adventures of Huckleberry Finn</em>](http://www.marktwainproject.org/xtf/view?docId=works/MTDP10000.xml;chunk.id=laf858;toc.depth=1;toc.id=la0854;citations=;style=work;brand=mtp#X).</ul>
 </details>
-<br />
+
+<details><summary>A "radiating" text</summary>
+<ul>Sometimes a text can only be established from copies of lost originals (more often the case with pre-Renaissance texts, but it still happens in the nineteenth century with, say, newspaper printings of lost manuscript texts).</ul>
+<ul>Bucci: </ul>
+</details>
+
+Example 1: Shakespeare: [<em>King Lear</em>](../readings/greg-on-king-lear.pdf) and [<em>Othello</em>](../readings/greg-on-othello.pdf). See Greg, from *Editorial Problems in Shakespeare* and [Brian Vickers](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).
+
+Example 2: Milton. See [Gaskell on <em>Comus</em>](../readings/Gaskell_on_Milton.pdf); see also Empson on Bentley's editing of Milton in <em>Some Versions of Pastoral</em>.
+
+Example 3: Dickens's <em>David Copperfield</em>. [See Gaskell on Dickens](../readings/Gaskell_on_Dickens.pdf).
+
+Example 4: [Mark Twain's <em>Adventures of Huckleberry Finn</em>](http://www.marktwainproject.org/xtf/view?docId=works/MTDP10000.xml;chunk.id=laf858;toc.depth=1;toc.id=la0854;citations=;style=work;brand=mtp#X).
 
 #### The *apparatus criticus*
 The textual apparatus (app crit, hereafter) is one of the foundational aspects of critical editing. In eclectic text editing, it is required, because your readers need to access the variants from all of the surviving witnesses that the editor used to constructed the reading text.
@@ -175,9 +178,11 @@ For more on this, consult James Cummings's [TEI for Critical Editions slides](..
 
 #### Exercise:
 
-[Access a plain text file of Tennyson's poem "Early Spring"]().
+Access [Christopher Ricks's edition of Tennyson's "Early Spring"](../readings/tennyson_early-spring-Ricks-edition.pdf).
 
-Encode the textual variants in an apparatus (see foot of the printed page).
+Encode the textual variants in the apparatus (see foot of the printed page). How can you represent those with TEI elements?
+
+Now look at the earlier version of the poem. How could you incorporate those changes into an eclectic text of the poem?
 
 ### Seminar 8: Open discussion of editorial problems with special collections
 
