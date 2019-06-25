@@ -103,9 +103,9 @@ Also, a slideshow on [textual corrections](https://docs.google.com/presentation/
 
 Access the TEI for transcription [slides here](../TEI-documentary-transcription.pdf)
 
-[Example 1: Mark Twain's notebooks and journals. Access slides here.](https://christopherohge.com/mark-twain-journals.pdf)
+[Example 1: Mark Twain's notebooks and journals. Access slides here](https://christopherohge.com/mark-twain-journals.pdf).
 
-[Example 2: Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
+[Example 2: Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html).
 
 ### Text Modelling
 
@@ -177,9 +177,8 @@ Consult these [slides](../TEI-for-Correspondence.pdf) to learn more about corres
 1. Download [this letter](shaw_letter_23_09_1928.jpg) from George Bernard Shaw (Senate House Library, Sterling Collection).
 2. Consult the transcription and correspondence slides to consider what kinds of elements should be used.
 3. What TEI module would be most appropriate?
-    - See Chapter 4 of the TEI Guidelines, for a reminder on text structure:
-https://tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSOC
-    - Chapter 2 of the TEI guidelines, for <correspDesc>: https://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html#HD44CD
+    - See [Chapter 4 of the TEI Guidelines](https://tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSOC), for a reminder on text structure.
+    - See [Chapter 2 of the TEI Guidelines](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html#HD44CD), for more on <correspDesc>.
 4. How would you encode the pre-printed header material?
 5. Create `<profileDesc>` element in your `<teiHeader>` (not within the `<fileDesc>` but rather as a sibling, or *outside*, of it). Within `<profileDesc>`, create a `<correspDesc>` element to add more metadata about the letter.
 6. Create a personography entry for Shaw and his correspondent within `<profileDesc>` (and a sibling element to `<correspDesc>`).

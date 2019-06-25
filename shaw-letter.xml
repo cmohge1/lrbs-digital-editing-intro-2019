@@ -14,7 +14,7 @@
                 <p>This is a born-digital diplomatic transcription of an unpublished letter.</p>        
             </publicationStmt>
             <sourceDesc>
-                <p>Written on one side of a card with Shaw's stock letterhead. Sterling Collection, Senate House Library.</p>
+                <p>Written on one side of a card with Shaw's stock letterhead. Sterling Collection, Senate House Library.</p>               
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -72,6 +72,7 @@
                     </place>
                 </listPlace>
             </settingDesc>
+           
         </profileDesc>
     </teiHeader>
     <text>
