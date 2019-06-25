@@ -174,7 +174,7 @@ Clearly these kinds of data could not be printed out, and even if one attempted 
 
 Consult these [slides](../TEI-for-Correspondence.pdf) to learn more about correspondence editing.
 
-1. Download [this letter](shaw_letter_23_09_1928.jpg) from George Bernard Shaw to Mark Twain (Senate House Library, Sterling Collection).
+1. Download [this letter](shaw_letter_23_09_1928.jpg) from George Bernard Shaw (Senate House Library, Sterling Collection).
 2. Consult the transcription and correspondence slides to consider what kinds of elements should be used.
 3. What TEI module would be most appropriate?
     - See Chapter 4 of the TEI Guidelines, for a reminder on text structure:
