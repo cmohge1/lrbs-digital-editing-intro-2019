@@ -20,7 +20,7 @@ Day 1: [Brief History of Scholarly Editing; Transcription and digital workflow](
 
 Day 2: [Documentary Editing; Introduction to the Text Encoding Initiative (TEI)](/day2.md).
 
-Day 3: [Eclectic editing; TEI continued](/day_3_plan.md).
+Day 3: [Eclectic editing; TEI continued](/day3.md).
 
 Day 4: [Genetic Criticism, Sociology of Text, and Fluid Text Editing; customising TEI](/day4.md).
 
