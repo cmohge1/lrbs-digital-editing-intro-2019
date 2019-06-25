@@ -3,7 +3,19 @@ layout: page
 title:  "Day 2"
 permalink: /day2/
 ---
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Tuesday, 25 June 2019](#tuesday-25-june-2019)
+	- [Summary](#summary)
+		- [Readings](#readings)
+		- [Introduction to the Text Encoding Initiative](#introduction-to-the-text-encoding-initiative)
+			- [Exercise](#exercise)
+		- [Editing the Classics (Simona Stoyanova)](#editing-the-classics-simona-stoyanova)
+		- [What is Documentary Editing?](#what-is-documentary-editing)
+		- [Text Modelling](#text-modelling)
+			- [Exercise: Using TEI for documentary editions: letters](#exercise-using-tei-for-documentary-editions-letters)
+
+<!-- /TOC -->
 # Tuesday, 25 June 2019
 
 ## Summary
@@ -42,7 +54,7 @@ Access the TEI Core Module [slides here](../TEI-core-module.pdf).
 
 ### Editing the Classics (Simona Stoyanova)
 
-Access the slides [here](https://docs.google.com/presentation/d/1FsiPhMiwASHfh8kN-MrM5OiP-45rmK4n_VvTbki8RBw/edit?usp=sharing).
+Access the slides [here](../LRBS_ Editing the Classics.pdf).
 
 And a [cheatsheet](../cheatsheet.pdf).
 
@@ -175,4 +187,4 @@ https://tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSOC
 `<place>PLACENAME</place>`
 `</listPlace>`
 
-#### Proceed to [Day 3](day3.md)
+**Proceed to [Day 3](day3.md)**
