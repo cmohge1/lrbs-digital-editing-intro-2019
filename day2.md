@@ -121,7 +121,7 @@ Patrick Sahle's model (of text modelling):
 
 (For the full slideshow, go to <http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf>. And for his essay on the subject, click go to <https://www.openbookpublishers.com/htmlreader/978-1-78374-238-7/ch2.xhtml>.)
 
-Sahle also provided a useful distinction of the 'digitised' versus the 'digital' edition. A work that is 'digitised' tends to mimic the codex––it is a page by page rendering. This form of digitisation is usually a PDF or even a hypertext marked up in html. But it is not interactive. A digital edition can only fully function in the digital realm––that is, if you have to print a digital edition, the edition would lose its functionality. The digital edition is more interactive  
+Sahle also provided a useful distinction of the 'digitised' versus the 'digital' edition. A work that is 'digitised' tends to mimic the codex––it is a page by page rendering. This form of digitisation is usually a PDF or even a hypertext marked up in html. But it is not interactive. A digital edition can only fully function in the digital realm––that is, if you have to print a digital edition, the edition would lose its functionality. The digital edition is more interactive.  
 
 What really distinguishes the two?
 
@@ -181,7 +181,7 @@ Consult these [slides](../TEI-for-Correspondence.pdf) to learn more about corres
     - See [Chapter 2 of the TEI Guidelines](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html#HD44CD), for more on <correspDesc>.
 4. How would you encode the pre-printed header material?
 5. Create `<profileDesc>` element in your `<teiHeader>` (not within the `<fileDesc>` but rather as a sibling, or *outside*, of it). Within `<profileDesc>`, create a `<correspDesc>` element to add more metadata about the letter.
-6. Create a personography entry for Shaw and his correspondent within `<profileDesc>` (and a sibling element to `<correspDesc>`).
+6. Create a personography entry for Shaw and his correspondent within `<profileDesc>` (and a sibling element to `<correspDesc>`). Note that could also put the personography data within `<sourceDesc>`.
 7. **BONUS**: Create a list of place names by adding a sibling element to `<particDesc>` called `<settingsDesc>`, and within that, create a `<listPlace>`
 `<place>PLACENAME</place>`
 `</listPlace>`
