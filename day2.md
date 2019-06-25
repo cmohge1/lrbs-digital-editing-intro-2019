@@ -50,6 +50,8 @@ For the exercise, download this [epiDoc template file](../ex-epidoctemplate.xml)
 
 For more informations, access this [epiDoc structural cheatsheet](../structure-cheatsheet.pdf).
 
+Also, a slideshow on [textual corrections](https://docs.google.com/presentation/d/1aZs8lOEnb4iD-xPK3Q24oVabV9qMxBrW3JieKHme6QU/edit?usp=sharing). 
+
 ### What is Documentary Editing?
 
 > Like all diplomatic transcription except type facsimile, plain text does not reproduce, simulate, or report the original lineation, pagination, or any other formal aspect of the manuscript, save where the writer intended it to bear meaning and that meaning is transcribable—which is exactly why it does reproduce or simulate many formal elements, such as various kinds of indention and purposeful lineation.
