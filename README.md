@@ -16,15 +16,15 @@ Course readings are either hyperlinked in the plan of each of day or downloadabl
 
 ## Schedule
 
-Day 1: [Brief History of Scholarly Editing; Transcription and digital workflow](/day1.md).
+Day 1: [Brief History of Scholarly Editing; Transcription and digital workflow](https://github.com/cmohge1/lrbs-digital-editing-intro-2019/day1.html).
 
-Day 2: [Documentary Editing; Introduction to the Text Encoding Initiative (TEI)](/day2.md).
+Day 2: [Documentary Editing; Introduction to the Text Encoding Initiative (TEI)](https://github.com/cmohge1/lrbs-digital-editing-intro-2019/day2.html).
 
 Day 3: [Eclectic editing; TEI continued](/day3.md).
 
-Day 4: [Genetic Criticism, Sociology of Text, and Fluid Text Editing; customising TEI](/day4.md).
+Day 4: [Genetic Criticism, Sociology of Text, and Fluid Text Editing; customising TEI](https://github.com/cmohge1/lrbs-digital-editing-intro-2019/day4.html).
 
-Day 5: [Alternative markup; Computer-assisted collation; Open discussion on publishing editions](/day5.md).
+Day 5: [Alternative markup; Computer-assisted collation; Open discussion on publishing editions](https://github.com/cmohge1/lrbs-digital-editing-intro-2019/day5.html).
 
 ## Detailed Schedule (Subject to Change)
 
