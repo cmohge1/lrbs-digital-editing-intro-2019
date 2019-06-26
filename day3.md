@@ -195,7 +195,7 @@ For digital publication, the app crit is usually encoded within the text, though
 
 For more on this, consult James Cummings's [TEI for Critical Editions slides](../TEI-critical-editions.pdf).  
 
-#### Exercise:
+#### Exercise: eclectic editing of a poem
 
 Access [Christopher Ricks's edition of Tennyson's "Early Spring"](../readings/tennyson_early-spring-Ricks-edition.pdf).
 
