@@ -52,16 +52,17 @@ Time | Topic | Type |
 
 ### Seminar 6: EEBO-TCP
 
-Access the slides [here--LINK TBD](LINK TBD).
+Access the slides [here](eebo-tcp-talk.pdf).
 
-* Lecture outline.
-    * The history and context of EEBO-TCP
-    * How the EEBO-TCP corpus was created
-    * Principles and limitations
-    * Some encoding peculiarities and challenges
-    * Using EEBO-TCP
-* The exercise
-* Reading
+#### Outline
+
+- The history and context of EEBO-TCP
+- How the EEBO-TCP corpus was created
+- Principles and limitations
+- Some encoding peculiarities and challenges
+- Using EEBO-TCP
+    - Exercise
+- Reading
 
 ### Seminar 7: Eclectic/copy-text/critical Editing
 
@@ -162,9 +163,15 @@ Greg's pragmatism: "The fact is that cases of revision differ so greatly in circ
 <ul>"A copy-text is a text to fall back on when all else fails" ("Varieties," 23).</ul>
 </details>
 
+<details><summary>Parker's notion of flawed texts and aesthetic theory</summary>
+<ul>Why do we think that authority ends with publication?</ul>
+<ul>Authors are sometimes subjected to change (both internally and externally) in ways that clearly damage the text.</ul>
+<ul>Parker posits that editors could use a combination of aesthetic and cognitive theory to understand the author's <em>original</em> intentions. This might sound like Bowers, but it is not quite the same.</ul>
+</details>
+
 <details><summary>A "radiating" text</summary>
-<ul>Sometimes a text can only be established from copies of lost originals (more often the case with pre-Renaissance texts, but it still happens in the nineteenth century with, say, newspaper printings of lost manuscript texts).</ul>
-<ul>Bucci: </ul>
+<ul>Sometimes a text can only be established from copies of lost originals (more often the case with pre-Renaissance texts, but it still happens in the nineteenth century with, say, newspaper printings of lost manuscript texts of equal authority). A radiating text, first defined by Bowers, is the kind of text for which a copy-text is inappropriate because there is no evidentiary basis on which to determine the authority of multiple copies that "radiate" independently from a lost manuscript or typescript.</ul>
+<ul>Bucci: Tanselle's recommendation to "move beyond" Greg's "often useful but nevertheless inherently restrictive concept" allows us to understand editorial problems more immediately, and with less technical prejudice.</ul>
 </details>
 <br />
 
@@ -181,7 +188,7 @@ The textual apparatus (app crit, hereafter) is one of the foundational aspects o
 
 Print publication: The difference between putting the app crit at the foot of the page versus in the back of the book. (Examples, from the same editor, of A. E. Houseman and Philip Larkin poems.)
 
-For digital publication, the app crit is usually encoded within the text, though you could also use empty pointers to connect apparatus entries to the `<back>`. Most use what is called the **parallel segmentation method** for complicated, nested variants.
+For digital publication, the app crit is usually encoded within the text, though you could also use empty pointers to connect apparatus entries to the `<back>`. Most use what is called the **parallel segmentation method** for complicated, nested variants in-text.
 
 For more on this, consult James Cummings's [TEI for Critical Editions slides](../TEI-critical-editions.pdf).  
 
@@ -194,5 +201,13 @@ Encode the textual variants in the apparatus (see foot of the printed page). How
 Now look at the earlier version of the poem. How could you incorporate those changes into an eclectic text of the poem?
 
 ### Seminar 8: Open discussion of editorial problems with special collections
+
+#### Some intriguing examples
+
+- Thomas Browne's "unauthorized" *Religio Medici* (1642).
+- Byron's manuscript of *Child Harold's Pilgrimage*, with Mary Shelley's revisions.
+- Siegfried Sassoon's *Georgian Parodies*
+- Walter de la Mare's marginalia.
+
 
 ##### Proceed to [Day 4](day4.md)
