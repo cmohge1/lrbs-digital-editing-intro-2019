@@ -11,12 +11,13 @@ permalink: /day4/
 	* [Summary](#summary)
 	* [Aims](#aims)
 	* [Outline](#outline)
-			* [Principles of Annotation](#principles-of-annotation)
+		* [Principles of Annotation](#principles-of-annotation)
 			* [Exercise](#exercise)
 		* [Seminar 10: Genetic criticism, social text editing, fluid text editing](#seminar-10-genetic-criticism-social-text-editing-fluid-text-editing)
 			* [Readings](#readings)
 			* [Theories of textual fluidity](#theories-of-textual-fluidity)
 		* [Seminar 11: Using TEI to encode genetic texts with TextLab](#seminar-11-using-tei-to-encode-genetic-texts-with-textlab)
+			* [Exercise](#exercise-1)
 		* [USTC Demo (Jessica Dalton, University of St Andrews)](#ustc-demo-jessica-dalton-university-of-st-andrews)
 
 <!-- /code_chunk_output -->
@@ -45,7 +46,7 @@ Time | Topic | Type |
 15.30 | Digital Approaches to Book History: A USTC demo | Presentation; Digital Lab |
 16.30 | Library Time |             |
 
-#### Principles of Annotation
+### Principles of Annotation
 
 [Click here to download the handout on annotation](../readings/on-notes.pdf)
 
@@ -109,7 +110,7 @@ For a refresher, consult the [TEI for Transcription slides](../TEI-documentary-t
 
 ### Seminar 11: Using TEI to encode genetic texts with TextLab
 
-General Instructions
+#### Exercise
 
 <p>1. Go to <https://app.textlab.org/users/sign_in> and click "Sign Up." Enter your details and make sure to select "University of London" under "Institutional Sponsor."</p>
 
@@ -141,9 +142,9 @@ General Instructions
 
 <p>10. To create a revision narrative, double-click on the boxed revision site, and click "New sequence." The top level will show the zone number of the box and the bottom will allow to compose a revision narrative.</p>
 
-[Click here to download a PDF of the entire Hayford-Sealts transcription](https://christopherohge.com/hayford-sealts-billy-budd-transcription.pdf).
+For reference, [click here to download a PDF of the entire Hayford-Sealts transcription](https://christopherohge.com/hayford-sealts-billy-budd-transcription.pdf).
 
-The ongoing digital edition can be found at the [Melville Electronic Library](http://mel-juxta-editions.herokuapp.com/documents/631).
+The ongoing digital edition can be found at the [Melville Electronic Library](http://mel-juxta-editions.herokuapp.com/documents/701).
 
 ### USTC Demo (Jessica Dalton, University of St Andrews)
 
