@@ -16,7 +16,7 @@ For more information on the module, please consult last year’s module web site
 
 Please note: No prior experience with programming is required. If you have experience with TEI-XML, you may want to consider taking the [Digital Scholarly Editing: Advanced Methods module, which runs from 1–5 July 2019](https://bit.ly/lrbs-editing-adv).
 
-### Required Reading
+### Readings
 Burnard, Lou. What is the Text Encoding Initiative? (Open Edition, 2014).
 
 Gabler, Hans Walter. Text Genetics in Literary Modernism and Other Essays [especially "Theorizing the Digital Scholarly Edition"] (Open Book, 2018).

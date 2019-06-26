@@ -16,7 +16,7 @@ permalink: /day4/
 		* [Seminar 10: Genetic criticism, social text editing, fluid text editing](#seminar-10-genetic-criticism-social-text-editing-fluid-text-editing)
 			* [Readings](#readings)
 			* [Theories of textual fluidity](#theories-of-textual-fluidity)
-		* [Seminar 11: Using TEI to mark-up versions of texts with TextLab](#seminar-11-using-tei-to-mark-up-versions-of-texts-with-textlab)
+		* [Seminar 11: Using TEI to encode genetic texts with TextLab](#seminar-11-using-tei-to-encode-genetic-texts-with-textlab)
 		* [USTC Demo (Jessica Dalton, University of St Andrews)](#ustc-demo-jessica-dalton-university-of-st-andrews)
 
 <!-- /code_chunk_output -->
@@ -55,7 +55,7 @@ William Empson: a great thinker about notes. See Empson's Introduction to the No
 
 Remember that the essence of the app crit in TEI is the `<app>` element, which contains at least `<rdg>` elements with `@wit` attributes. If you would like to replicate Ricks's app crit, you'll want to also nest a `<lem>` element (a lemma) so that you can represent the preferred reading (the lemma) which points to its variants at the foot of the page. More information about app crit in TEI can be found in [Chapter 12](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html) of the *TEI Guidelines*.
 
-Thankfully annotation is a bit simpler in TEI: for many projects a `<note>` TEI element will suffice (for more, consult the [Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html)).
+Thankfully contextual annotation is a bit simpler in TEI: for many projects a `<note>` TEI element will suffice (for more, consult the [Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html)).
 
 The way you encode your annotations will depend on how you want the notes to be structured, and where you will want the notes to appear in your interface. Many projects will create a linking system for note-writing. As a simple example from the Cranch Journal project (which we examined on Day 2), the note system is constructed this way:
 
@@ -79,12 +79,12 @@ OK, but why did the `<ptr>` element include its own `@xml:id`?
 
 #### Exercise
 
-1. Return to your TEI-encoded text of Tennyson's "Early Spring."
-2. Now have a look at [Christopher Ricks's edition](../readings/tennyson_early-spring-Ricks-edition.pdf) of Tennyson and take a moment to study the app crit of "Early Spring".
-3. Within the `<text>` of your xml file, create an app crit using Ricks's example.
-4. Create a personography within your file. Create entries (and `@xml:id`s) for Tennyson and Ricks (it does not have to be complete).
-5. Create a note to reproduce Ricks's textual headnote (hint: treat it like you would an explanatory note: create a `<back>` element?).
-6. Create a short explanatory note about some aspect of the poem.
+(Note that you are more than welcome to attempt this exercise on a file of your own.)
+
+1. Return to your [TEI-encoded text of Tennyson's "Early Spring"](../tennyson_early-spring.xml).
+2. Create a [witness list](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-listWit.html) within the `<sourceDesc>` and personography data within either `<sourceDesc>` or `<profileDesc>` (does not matter which). Create entries (and `@xml:id`s) for Alfred Lord Tennyson, Hallam Tennyson, and Christopher Ricks (it does not have to be complete).
+3. Create a note to reproduce Ricks's textual headnote.
+4. Create a short explanatory or textual note about some aspect of the poem in the `<back>` element (hint: a sibling of `<body>`).
 
 If you would like to consult the Senate House Library's manuscript of "Early Spring," you can download it [here](../early-spring-ms.pdf).
 
@@ -92,9 +92,10 @@ If you would like to consult the Senate House Library's manuscript of "Early Spr
 
 #### Readings
 
-1. McGann, *Critique of Modern Textual Criticism*.
-2. Bryant, *The Fluid Text*.
-3. [Hayford-Sealts genetic transcription of Melville's *Billy Budd*](https://christopherohge.com/hayford-sealts-billy-budd-transcription.pdf).
+1. Jerome McGann, *Critique of Modern Textual Criticism*.
+2. Hans Walter Gabler, ["The Draft Manuscript as Material Foundation for Genetic Editing and Genetic Criticism"](https://www.openbookpublishers.com/htmlreader/978-1-78374-363-6/ch10.html#_idTextAnchor027), in *Text Genetics*.
+3. John Bryant, *The Fluid Text*.
+4. [Hayford-Sealts genetic transcription of Melville's *Billy Budd*](https://christopherohge.com/hayford-sealts-billy-budd-transcription.pdf).
 
 #### Theories of textual fluidity
 
@@ -106,7 +107,7 @@ Some distinctions:
 
 For a refresher, consult the [TEI for Transcription slides](../TEI-documentary-transcription.pdf)
 
-### Seminar 11: Using TEI to mark-up versions of texts with TextLab
+### Seminar 11: Using TEI to encode genetic texts with TextLab
 
 General Instructions
 
@@ -126,7 +127,7 @@ General Instructions
 
 <p>* select the "ab" box (which will surround the text transcription).</p>
 
-<p>* transcribe all of the metamarks first, then focus on transcribing the whole text.</p>
+<p>* transcribe all of the <a href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-metamark.html">metamark</a> elements first, then focus on transcribing the whole text.</p>
 
 <p>6. Draw boxes around each of the revision or metamark sites. As you do so, highlight the transcribed text of the revision, then double-click on the box (near the number) of its corresponding revision site box. Enter the appropriate TEI encoding.</p>
 
