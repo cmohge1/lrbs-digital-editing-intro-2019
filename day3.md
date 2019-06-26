@@ -195,11 +195,13 @@ For digital publication, the app crit is usually encoded within the text, though
 
 For more on this, consult James Cummings's [TEI for Critical Editions slides](../TEI-critical-editions.pdf).  
 
-#### Exercise 
+#### Exercise
 
 Eclectic editing of a poem
 
 Access [Christopher Ricks's edition of Tennyson's "Early Spring"](../readings/tennyson_early-spring-Ricks-edition.pdf).
+
+If you need the xml file, download it [here](../tennyson_early-spring.xml).
 
 Encode the textual variants in the apparatus (see foot of the printed page). How can you represent those with TEI elements?
 
