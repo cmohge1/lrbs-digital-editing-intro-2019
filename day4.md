@@ -4,19 +4,35 @@ title:  "Day 4"
 permalink: /day4/
 ---
 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=4 orderedList=false} -->
+<!-- code_chunk_output -->
+
+* [Thursday, 27 June 2019](#thursday-27-june-2019)
+	* [Summary](#summary)
+	* [Aims](#aims)
+	* [Outline](#outline)
+			* [Principles of Annotation](#principles-of-annotation)
+			* [Exercise](#exercise)
+		* [Seminar 10: Genetic criticism, social text editing, fluid text editing](#seminar-10-genetic-criticism-social-text-editing-fluid-text-editing)
+			* [Readings](#readings)
+			* [Theories of textual fluidity](#theories-of-textual-fluidity)
+		* [Seminar 11: Using TEI to mark-up versions of texts with TextLab](#seminar-11-using-tei-to-mark-up-versions-of-texts-with-textlab)
+		* [USTC Demo (Jessica Dalton, University of St Andrews)](#ustc-demo-jessica-dalton-university-of-st-andrews)
+
+<!-- /code_chunk_output -->
+
 # Thursday, 27 June 2019
 
 ## Summary
 
-Then we will review recent textual scholarship on versions, genetic criticism, and social text theory. We will also survey digital approaches for collating and encoding texts and doing digital book history.
+Today we will focus on recent textual scholarship on genetic criticism and social text theory, attending to questions of textual fluidity, publishing practices, and reception, in addition to considering how we build the paratextual apparatus (textual and contextual notes). We will also survey digital approaches for collating and encoding texts and doing digital book history.
 
 ## Aims
 
-- Encode a textual apparatus, witness list, and annotations.
-- Understanding of schemas and ODDs, and why we use them.
+- Encode a textual apparatus, witness list, and contextual annotations.
 - Understand the differences between eclectic and genetic text editing.
-- Understand how text genetics and "social text" theory changed the practices of editing.
-- A working knowledge of using TextLab to transcribe manuscript images.
+- Understand how text genetics and "social text" theory changed the practices of editing and a re-evaluation of authorial intention.
+- A working knowledge of transcribing manuscript images.
 - A facility with using digital book history tools like the Universal Short Title Catalogue.
 
 ## Outline
@@ -26,7 +42,7 @@ Time | Topic | Type |
 9.30 | Seminar 9: Thinking about, writing, and encoding textual apparatus and annotation | Presentation, Discussion |
 11.30 | Seminar 10: Intro to genetic criticism, social text editing, fluid text editing with TextLab | Presentation  |
 14.00 | Seminar 11: Continue with TextLab exercise | Digital lab |
-|15.30 | Digital Approaches to Book History: A USTC demo | Presentation; Digital Lab |
+15.30 | Digital Approaches to Book History: A USTC demo | Presentation; Digital Lab |
 16.30 | Library Time |             |
 
 #### Principles of Annotation
@@ -132,4 +148,4 @@ The ongoing digital edition can be found at the [Melville Electronic Library](ht
 
 The Universal Short Title Catalogue has recently released a revamped set of tools.
 
-#### Proceed to [Day 5](day5.md)
+##### Proceed to [Day 5](day5.md)
