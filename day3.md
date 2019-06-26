@@ -214,7 +214,7 @@ Now look at the earlier version of the poem. How could you incorporate those cha
 #### Some intriguing examples
 
 - Thomas Browne's "unauthorized" *Religio Medici* (1642).
-- Byron's manuscript of *Child Harold's Pilgrimage*, with Mary Shelley's revisions.
+- Fragment of Byron's manuscript of *Childe Harold's Pilgrimage*, with Mary Shelley's revisions.
 - J. M. Barrie's revised typescripts (pre-"Definitive Edition").
 - Siegfried Sassoon's *Georgian Parodies*. See the published version [here](sassoon_fireflies_vanity_fair.pdf).
 - Walter de la Mare's marginalia.
