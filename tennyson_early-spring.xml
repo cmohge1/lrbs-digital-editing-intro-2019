@@ -28,16 +28,24 @@
          <div type="poem">
             
             <lg type="sestet">
+               <head>I</head>
                <l>Once more the Heavenly Power</l>
                <l>Makes all things new,</l>
-               <l>And domes the red-plowed hills</l>
-               <l>With loving blue;</l> 
+               <l><app>
+                  <lem>And domes the</lem>
+                  <rdg wit="1833">Bows over</rdg>
+               </app> red-plowed hills</l>
+               <l><app>
+                  <lem>With</lem>
+                  <rdg>The</rdg>
+               </app> loving blue;</l> 
                <l>The blackbirds have their wills,</l>
                <l>The throstles too.</l>
             </lg>
             
             <lg type="sestet">
-               <l>Opens a door in Heaven; </l>
+               <head>II</head>
+               <l><anchor xml:id="l7-24"/>Opens a door in Heaven; </l>
                <l>From skies of glass</l>
                <l>A Jacob's ladder falls</l>
                <l>On greening grass, </l>
@@ -45,6 +53,7 @@
                <l>Young angels pass.</l></lg>
             
             <lg type="sestet">
+               <head>III</head>
                <l>Before them fleets the shower,</l>
                <l>And burst the buds,</l> 
                <l>And shine the level lands,</l>
@@ -53,12 +62,13 @@
                <l>Flung through the woods,</l></lg>
             
             <lg type="sestet">
+               <head>IV</head>
                <l>The woods with living airs</l>
                <l>How softly fanned,</l>
                <l>Light airs from where the deep,</l>
                <l>All down the sand,</l>
                <l>Is breathing in his sleep,</l>
-               <l>Heard by the land.</l>
+               <l>Heard by the land.<app from="#l7-24"><rdg wit="nb-ts">[Not in]</rdg></app></l>
             </lg>
             
             <lg type="sestet">
