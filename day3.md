@@ -207,12 +207,15 @@ Encode the textual variants in the apparatus (see foot of the printed page). How
 
 Now look at the earlier version of the poem. How could you incorporate those changes into an eclectic text of the poem?
 
+**Example** of some complex text app: [Mark Twain's Autobiography, vol. 3](../MTDP10364.xml).
+
 ### Seminar 8: Open discussion of editorial problems with special collections
 
 #### Some intriguing examples
 
 - Thomas Browne's "unauthorized" *Religio Medici* (1642).
 - Byron's manuscript of *Child Harold's Pilgrimage*, with Mary Shelley's revisions.
+- J. M. Barrie's revised
 - Siegfried Sassoon's *Georgian Parodies*
 - Walter de la Mare's marginalia.
 
