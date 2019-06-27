@@ -116,6 +116,7 @@
             </lg>
 
             <lg type="sestet">
+               <head>V</head>
                <l>O, follow, leaping blood,</l>
                <l>The season's lure!</l>
                <l>O heart, look down and up,</l>
@@ -125,6 +126,7 @@
             </lg>
 
             <lg type="sestet">
+               <head>VI</head>
                <l>Past, Future glimpse and fade</l>
                <l>Through some slight spell,</l>
                <l>A gleam from yonder vale,</l>
@@ -134,6 +136,7 @@
             </lg>
 
             <lg type="sestet">
+               <head>VII</head>
                <l>Till at thy chuckled note,</l>
                <l>Thou twinkling bird,</l>
                <l>The fairy fancies range,</l>
@@ -143,12 +146,19 @@
             </lg>
 
             <lg type="sestet">
-               <l>For now the Heavenly Power</l>
+               <head>VIII</head>
+               <l><anchor xml:id="l43-48"/><app>
+                  <lem>For now</lem>
+                  <rdg wit="#LondonMS1">
+                  <del>Once more</del>
+                  <add>For now</add>
+               </rdg>
+               </app> the Heavenly Power</l>
                <l>Makes all things new,</l>
                <l>And thaws the cold, and fills</l>
                <l>The flower with dew;</l>
                <l>The blackbirds have their wills,</l>
-               <l>The poets too.</l>
+               <l>The poets too.<app from="#l43-48"><rdg wit="#p1833">[Not in]</rdg></app></l>
             </lg>
          </div>
       </body>
