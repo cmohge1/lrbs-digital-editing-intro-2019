@@ -157,9 +157,9 @@ For a refresher, consult the [TEI for Transcription slides](../TEI-documentary-t
 
 <p>* transcribe all of the <a href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-metamark.html">metamark</a> elements first, then focus on transcribing the whole text.</p>
 
-<p>* consult the <a href="https://christopherohge.com/hayford-sealts-billy-budd-transcription.pdf">Hayford-Sealts genetic transcription</a> for stage numbers and help on transcribing words.</p>
+<p>* consult the <a href="https://christopherohge.com/hayford-sealts-billy-budd-transcription.pdf">Hayford-Sealts genetic transcription</a> (starting on page 6 of the PDF) for stage numbers (shown at the head of each leaf) and for help with transcribing words.</p>
 
-<p>* also note that the folio numbers in the top left corner of the ms pages are from Melville's first editor, Raymond Weaver. The folio numbers in the top right are Melville's. The ones on the bottom left margin were inscribed by Houghton Library.
+<p>* also note that the folio numbers in the top left corner of the ms pages are from Raymond Weaver, Melville's first editor. The folio numbers in the top right are Melville's. The ones on the bottom left margin were inscribed by Houghton Library.
 
 <p>6. Draw boxes around each of the revision or metamark sites. As you do so, highlight the transcribed text of the revision, then double-click on the box (near the number) of its corresponding revision site box. Enter the appropriate TEI encoding.</p>
 

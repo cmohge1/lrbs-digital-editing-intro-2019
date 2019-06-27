@@ -4,6 +4,20 @@ title:  "Day 5"
 permalink: /day5/
 ---
 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+<!-- code_chunk_output -->
+
+* [Friday, 5 July 2019](#friday-5-july-2019)
+	* [Aims](#aims)
+		* [Seminar 12: Problems with TEI; computer-assisted collation; alternative markup with LMNL](#seminar-12-problems-with-tei-computer-assisted-collation-alternative-markup-with-lmnl)
+			* [Reading](#reading)
+			* [Computer-Assisted Collation](#computer-assisted-collation)
+			* [Juxta Commons Exercise](#juxta-commons-exercise)
+			* [CollateX](#collatex)
+		* [Seminar 13: Publishing Options](#seminar-13-publishing-options)
+
+<!-- /code_chunk_output -->
+
 # Friday, 5 July 2019
 
 ## Aims
@@ -26,9 +40,9 @@ Time     | Topic                               | Type                    |
 
 1. [Wendell Piez, "TEI in LMNL: Implications for Modeling"](https://journals.openedition.org/jtei/1337) (*jTEI*, 2014)
 
-If you return to the poem you marked up on Day 1, Tennyson's "Early Spring," you might want to start encoding linguistic phenomena.
+If you were to encode a poem like Edward Thomas's "Child of the Cliffs" (download [here](../edward-thomas-child)) you might want to start encoding linguistic phenomena.
 
-Say we would like to mark up all instances of speakers with `<speaker>` tags (for more on this see the [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DR.html#DRSP)).
+Say we would like to mark up all instances of speakers and phrases with `<q>` ([quotation](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-q.html)), `<phr>` ([phrase](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-phr.html)), and `<s>` ([sentence](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-s.html)) tags.
 
 What happens to the XML validation?
 
@@ -43,6 +57,23 @@ Alternative markups such as LMNL are best used when the the XML or TEI-XML canno
 Mark up the Tennyson poem in LMNL and make sure to encode the speakers (and any other features) you may find interesting.
 
 How does that compare to TEI encoding?
+
+What you are doing with LMNL can also be done in TEI with what is called Trojan Horse markup. This is the use of empty elements (with pointing mechanisms) to tie to kinds of overlapping elements together.
+
+In the Thomas poem, you'll notice right away that you cannot properly encode a simple quotation across the last two line elements here, but you also cross line elements when you encode phrases and sentences.
+
+```
+<lg type="sestet">
+               <l>Fishes and gulls ring no bells. There cannot be</l>
+               <l>A chapel or church between here and Devon,</l>
+               <l>With fishes or gulls ringing its bell,—hark!—</l>
+               <l>Somewhere under the sea or up in heaven.</l>
+               <l>“It’s the bell, my son, out in the bay</l>
+               <l>On the buoy. It does sound sweet to-day.”</l>
+            </lg>
+```
+
+How to get around this?
 
 #### Computer-Assisted Collation
 
