@@ -13,9 +13,12 @@ permalink: /day4/
 	* [Outline](#outline)
 		* [Principles of Annotation](#principles-of-annotation)
 			* [Exercise](#exercise)
-		* [Seminar 10: Genetic criticism, social text editing, fluid text editing](#seminar-10-genetic-criticism-social-text-editing-fluid-text-editing)
+		* [Seminar 10: Genetic editing, social text editing, fluid text editing](#seminar-10-genetic-editing-social-text-editing-fluid-text-editing)
 			* [Readings](#readings)
 			* [Theories of textual fluidity](#theories-of-textual-fluidity)
+			* [Social Text](#social-text)
+			* [Genetic criticism/genetic editing](#genetic-criticismgenetic-editing)
+			* [Fluid Text](#fluid-text)
 		* [Seminar 11: Using TEI to encode genetic texts with TextLab](#seminar-11-using-tei-to-encode-genetic-texts-with-textlab)
 			* [Exercise](#exercise-1)
 		* [USTC Demo (Jessica Dalton, University of St Andrews)](#ustc-demo-jessica-dalton-university-of-st-andrews)
@@ -83,13 +86,13 @@ OK, but why did the `<ptr>` element include its own `@xml:id`?
 (Note that you are more than welcome to attempt this exercise on a file of your own.)
 
 1. Return to your [TEI-encoded text of Tennyson's "Early Spring"](../tennyson_early-spring.xml).
-2. Create a [witness list](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-listWit.html) within the `<sourceDesc>` and personography data within either `<sourceDesc>` or `<profileDesc>` (does not matter which). Create entries (and `@xml:id`s) for Alfred Lord Tennyson, Hallam Tennyson, and Christopher Ricks (it does not have to be complete).
+2. Create a [witness list](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-listWit.html) within the [<sourceDesc>](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-sourceDesc.html). and personography (also called prosopography) data within either `<sourceDesc>` or `<particDesc>` (within `<profileDesc>`). Create entries (and `@xml:id`s) for Alfred Lord Tennyson, Hallam Tennyson, and Christopher Ricks (it does not have to be complete).
 3. Create a note to reproduce Ricks's textual headnote.
 4. Create a short explanatory or textual note about some aspect of the poem in the `<back>` element (hint: a sibling of `<body>`).
 
 If you would like to consult the Senate House Library's manuscript of "Early Spring," you can download it [here](../early-spring-ms.pdf).
 
-### Seminar 10: Genetic criticism, social text editing, fluid text editing
+### Seminar 10: Genetic editing, social text editing, fluid text editing
 
 #### Readings
 
@@ -104,7 +107,29 @@ Some distinctions:
 
 1. New Bibliography (Greg, Bowers, Gaskell, Tanselle).
 2. Sociology of Text; Social Text (McKenzie, McGann, Stillinger, Siemens).
-3. Genetic editing (Zeller, Gabler, Hayford-Sealts, Bryant et al).
+3. Genetic editing (Zeller, Gabler, Hayford and Sealts, Bryant et al).
+
+#### Social Text
+
+Eclectic texts are "always dangerous" (James Thorpe, *Principles of Textual Criticism*, 190).
+
+Limits authorial intentionality in favour of "social processes" or "bibliographic codes."
+
+We do not own our intentions; rather they are part of the cultural structures that govern us. Intention is a sub-plot in the larger story of social interactions.
+
+Whereas Tanselle focusses on an ontology of the intended "work," McGann uses historicist/materialist agenda to show a transaction between words and reader in certain moments. The text is more like an *event*.
+
+**Bibliographic codes**: material and rhetorical determinants that constitute the way in which the text is presented in time.
+
+#### Genetic criticism/genetic editing
+
+While both are interested in determining the creative process (genesis) of a text, criticism is still deployed alongside literary theory, whereas genetic editing is a method of editing that represents the creative process using codes.
+
+#### Fluid Text
+
+Linguistic and bibliographic codes alone cannot always fully capture the interplay of shifting intentions, particularly in the creative process.
+
+"In fluid text analysis, all versions are created equal" (47).
 
 For a refresher, consult the [TEI for Transcription slides](../TEI-documentary-transcription.pdf)
 
