@@ -159,6 +159,8 @@ For a refresher, consult the [TEI for Transcription slides](../TEI-documentary-t
 
 <p>* consult the <a href="https://christopherohge.com/hayford-sealts-billy-budd-transcription.pdf">Hayford-Sealts genetic transcription</a> for stage numbers and help on transcribing words.</p>
 
+<p>* also note that the folio numbers in the top left corner of the ms pages are from Melville's first editor, Raymond Weaver. The folio numbers in the top right are Melville's. The ones on the bottom left margin were inscribed by Houghton Library.
+
 <p>6. Draw boxes around each of the revision or metamark sites. As you do so, highlight the transcribed text of the revision, then double-click on the box (near the number) of its corresponding revision site box. Enter the appropriate TEI encoding.</p>
 
 <p>For an example of the first stanza of a poem, “The Grave of Wilberforce” (leaf 24), <a href="https://christopherohge.com/grave-of-wilberforce.xml">click here</a> (right click and download the file ("Save link as"), or click on the link, right click, and select "View Page Source").</p>
