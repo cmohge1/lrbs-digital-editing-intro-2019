@@ -54,9 +54,11 @@ The document consists of text and a sequence of atoms (mostly characters) with r
 
 Alternative markups such as LMNL are best used when the the XML or TEI-XML cannot serve the project's purposes. It is also best to only use alternative markup on small- to medium-scale projects (LMNL, for example, does not provide validation rules like XML does).
 
-**Exercise 1**
+**Exercise**
 
-Mark up the Tennyson poem in LMNL and make sure to encode the speakers (and any other features) you may find interesting.
+Mark up the Thomas poem in LMNL and make sure to encode the speakers (and any other features) you may find interesting.
+
+---
 
 How does that compare to TEI encoding?
 
@@ -81,9 +83,9 @@ How to get around this?
 
 The traditional method of collation has been tedious: you literally read versions of texts side-by-side and note the differences in a collation table.
 
-The Hinman collator at work.
-
 ![hinman](hinman.jpg)
+
+(The Hinman collator at work.)
 
 In most cases, machine-collation can detect differences that human eyes often miss: punctuation differences, capitalization, even entire lines of text. Two very effective methods of machine-collation can be achieved with Juxta and Collatex. Juxta is easier to use, and quite effective, but it lacks flexibility, and some texts require a lot more nuanced treatment. For more bespoke text projects with a lot of textual variation, Collatex is an option, but it involves a learning curve. It is faster and fully customizable, yet it lacks the accessible interface of Juxta. Like any other editorial project, your decision of what to use depends on your documents, and how you would like to present those documents.
 
