@@ -145,9 +145,11 @@ A good example of a Collatex collation: the [Samuel Beckett manuscript project](
 
 #### How to publish
 
-1. **Bespoke online resource**
-    * Gains: Highly customisable, takes full advantage of your rich XML, presents multiple views based on your data, includes many related resources.
-    * Losses: time and skill intensive.
+1. **[Ed](https://elotroalex.github.io/ed/)**
+    * Best for: quick and easy reading texts of editions based on Markdown / minimal computing.
+    * Features:
+    Focused on legibility, durability, ease and flexibility
+    Static (low cost) hosting through Jekyll application
 2. **[TEI Boilerplate](http://dcl.slis.indiana.edu/teibp/)**
     * Best for: getting up and running quickly
     * Features:
@@ -167,6 +169,28 @@ Displays parallel versions
 Prints the edition
 Provides basic statistics
 
-4. Juxta commons
-5. TAPAS
-6. TEI Publisher 
+4. **[Juxta commons](http://juxtacommons.org/)**
+    * Best for comparing witnesses
+5. **[TAPAS](http://www.tapasproject.org/)**
+    * Best for sharing
+    * TEI Archiving, Publishing and Access
+Service
+Free accounts can contribute to existing
+projects and collections
+Paid (or TEI) members have free storage
+and possibility of creating projects and
+collections
+Uses XSLT transformations to display TEI
+
+6. **[TEI Publisher](http://teipublisher.com/exist/apps/tei-publisher-home/index.html)**
+    * Best for an out-of-the-box solution
+    * Based on eXist-db database
+Provides easy browsing and
+search of TEI documents
+Default view is clean, simple
+but elegant
+Control of display is through
+ODD processing format
+7. **Bespoke online resource**
+    * Gains: Highly customisable, takes full advantage of your rich XML, presents multiple views based on your data, includes many related resources.
+    * Losses: time and skill intensive.
