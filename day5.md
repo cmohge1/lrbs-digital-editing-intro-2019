@@ -96,7 +96,7 @@ Juxta Commons is a web-based interface for comparing versions of texts and creat
 (http://www.juxtacommons.org/signup)
 * Download the two versions of Mark Twain's "A Scrap of Curious History"
   * [Holograph manuscript transcription (c. 1894)](../readings/a-scrap-of-curious-history-ms.txt)
-  * [1914 published text](../a-scrap-of-curious-history-harpers-1914.txt)
+  * [1914 published text](../readings/a-scrap-of-curious-history-harpers-1914.txt)
 
 If you already have some versions of a text prepared, feel free to use those.
 * Click on "Add Source" (top-left of the screen) and upload the files you just downloaded.
