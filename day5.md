@@ -11,6 +11,7 @@ permalink: /day5/
 	* [Aims](#aims)
 		* [Seminar 12: Problems with TEI; computer-assisted collation; alternative markup with LMNL](#seminar-12-problems-with-tei-computer-assisted-collation-alternative-markup-with-lmnl)
 			* [Reading](#reading)
+			* [Exercise](#exercise)
 			* [Computer-Assisted Collation](#computer-assisted-collation)
 			* [Juxta Commons Exercise](#juxta-commons-exercise)
 			* [CollateX](#collatex)
@@ -54,7 +55,7 @@ The document consists of text and a sequence of atoms (mostly characters) with r
 
 Alternative markups such as LMNL are best used when the the XML or TEI-XML cannot serve the project's purposes. It is also best to only use alternative markup on small- to medium-scale projects (LMNL, for example, does not provide validation rules like XML does).
 
-**Exercise**
+#### Exercise
 
 Mark up the Thomas poem in LMNL and make sure to encode the speakers (and any other features) you may find interesting.
 
