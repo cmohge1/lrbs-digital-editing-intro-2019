@@ -197,3 +197,8 @@ ODD processing format
 7. **Bespoke online resource**
     * Gains: Highly customisable, takes full advantage of your rich XML, presents multiple views based on your data, includes many related resources.
     * Losses: time and skill intensive.
+
+**Some final thoughts**:
+
+Ther is no "best" way to publish digital editions: what you choose depends on your research questions and the needs of your project.
+There is no pre-determined out-of-the-box solution that gives you everything you need. Collaboration is essential. A sophisticated project will require software developers, but you will now be well-placed to communicate with them. The editorial scholarship is yours, and it is reflected in the encoding. What you make of it will be the result of teamwork. Good luck!
