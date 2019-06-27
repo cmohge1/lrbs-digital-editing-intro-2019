@@ -85,12 +85,14 @@ OK, but why did the `<ptr>` element include its own `@xml:id`?
 
 (Note that you are more than welcome to attempt this exercise on a file of your own.)
 
-1. Return to your [TEI-encoded text of Tennyson's "Early Spring"](../tennyson_early-spring.xml).
+1. Return to your [TEI-encoded text of Tennyson's "Early Spring"](../tennyson-early-spring-template.xml).
 2. Create a [witness list](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-listWit.html) within the [sourceDesc](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-sourceDesc.html). and personography (also called prosopography) data within either `<sourceDesc>` or `<particDesc>` (within `<profileDesc>`). Create entries (and `@xml:id`s) for Alfred Lord Tennyson, Hallam Tennyson, and Christopher Ricks (it does not have to be complete).
-3. Create a note to reproduce Ricks's textual headnote.
+3. Create a note to reproduce Ricks's textual headnote, and try to encode certain aspects within that note (any people, places?).
 4. Create a short explanatory or textual note about some aspect of the poem in the `<back>` element (hint: a sibling of `<body>`).
 
-If you would like to consult the Senate House Library's manuscript of "Early Spring," you can download it [here](../early-spring-ms.pdf).
+If you would like to consult the Senate House Library's manuscript of "Early Spring," you can download it [here](../readings/early-spring-ms.pdf).
+
+[Here](../tennyson_early-spring-full.xml) is one way of encoding the poem with a bit more annotation.
 
 ### Seminar 10: Genetic editing, social text editing, fluid text editing
 
