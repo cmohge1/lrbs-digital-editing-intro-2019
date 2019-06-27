@@ -15,6 +15,8 @@ permalink: /day5/
 			* [Juxta Commons Exercise](#juxta-commons-exercise)
 			* [CollateX](#collatex)
 		* [Seminar 13: Publishing Options](#seminar-13-publishing-options)
+			* [Lecture notes](#lecture-notes)
+			* [How to publish](#how-to-publish)
 
 <!-- /code_chunk_output -->
 
@@ -123,4 +125,48 @@ A good example of a Collatex collation: the [Samuel Beckett manuscript project](
 
 ### Seminar 13: Publishing Options
 
-Access the slides here.
+#### Lecture notes
+
+* A finished TEI XML file can be published in several ways.
+    * Share the source document.
+    * Convert the source file into a reading format (HTML, PDF, ePub), either online or in print.
+    * Make *all* the data accessible online (XML, XSLT, CSS, and other code).
+
+* Remember that "publishing" means both distribution and discovery. For the digital editor that means using acceptable file formats that people (not just publishers) can use.
+
+* In digital scholarly editing, publishing can be almost immediate, but it can also mean several different outputs.
+1. Share in an online code repository (easiest):
+    * Gains: quick, easy, free or low cost for hosting, allows for reuse of your work.
+    * Losses: no interface (not reader-friendly), no way to customise the reading experience (you get *all* the data), so it lacks in the design qualities that we expect from editions.
+2. Create new (or modify existing) XSLT files to transform your edition data into web-friendly HTML files that you can host on a server.
+    * Gains: fairly straightforward (if you know a little XSLT)
+    * Losses: you need to learn XSLT, need to host it (or otherwise distribute it), it is (usually) a static resource; if the TEI is changed in any way you will need to re-run the transformation and distribute it again.
+3. Use an out-of-the-box tool to publish your project.
+
+#### How to publish
+
+1. **Bespoke online resource**
+    * Gains: Highly customisable, takes full advantage of your rich XML, presents multiple views based on your data, includes many related resources.
+    * Losses: time and skill intensive.
+2. **[TEI Boilerplate](http://dcl.slis.indiana.edu/teibp/)**
+    * Best for: getting up and running quickly
+    * Features:
+In-browser conversion from TEI to HTML
+Links, images, etc.
+Works in all major browsers
+Good for small simple projects
+Customizable with CSS
+Viewing page-source reveals TEI
+
+3. **[TEI Critical Apparatus Toolbox](http://teicat.huma-num.fr/)**
+    * Best for: testing
+    * Features:
+Based on the TEI Boilerplate
+Checks encoding while unfinished
+Displays parallel versions
+Prints the edition
+Provides basic statistics
+
+4. Juxta commons
+5. TAPAS
+6. TEI Publisher 
