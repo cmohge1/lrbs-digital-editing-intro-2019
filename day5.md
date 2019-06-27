@@ -18,6 +18,7 @@ permalink: /day5/
 		* [Seminar 13: Publishing Options](#seminar-13-publishing-options)
 			* [Lecture notes](#lecture-notes)
 			* [How to publish](#how-to-publish)
+			* [Publishing Exercise](#publishing-exercise)
 
 <!-- /code_chunk_output -->
 
@@ -197,6 +198,19 @@ ODD processing format
 7. **Bespoke online resource**
     * Gains: Highly customisable, takes full advantage of your rich XML, presents multiple views based on your data, includes many related resources.
     * Losses: time and skill intensive.
+
+#### Publishing Exercise
+Due to the constraints of using university computers, we can only experiment easily with one of the tools showcased earlier, the TEI Publisher.
+
+* Go to the TEI Publisher demo: https://teipublisher.com/exist/apps/tei-publisher/index.html
+
+* Login using the demo credentials: username — tei, password — simple
+* You should now be able to upload files (scroll down until you see the upload window on the right hand side)
+* Upload one of your previous exercise files
+* Try changing some of the @rend attributes to see if something changes
+* Try adding <pb/> elements and change the view to ‘page view’, on the menu on the right hand side
+* Try exploring the other documents available (make sure to click on the menu on the right hand side and look at the underlying XML as well)
+
 
 **Some final thoughts**:
 
