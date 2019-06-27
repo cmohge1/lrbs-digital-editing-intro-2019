@@ -139,7 +139,7 @@ For a refresher, consult the [TEI for Transcription slides](../TEI-documentary-t
 
 #### Exercise
 
-<p>1. Go to <https://app.textlab.org/users/sign_in> and click "Sign Up." Enter your details and make sure to select "University of London" under "Institutional Sponsor."</p>
+<p>1. Go to <https://app.textlab.org/users/sign_in> and click "Sign Up." Enter your details and make sure to select "University of London" under "Institutional Sponsor." You will then refresh the page (or log back in) and click on the "Join project" button.</p>
 
 <p>2. Do you want to edit <em>Billy Budd</em> or the <em>Bow in the Cloud</em>? Find "Billy Budd (SAS, UoL)" or "Bow in the Cloud" and click "Edit."</p>
 
@@ -156,6 +156,8 @@ For a refresher, consult the [TEI for Transcription slides](../TEI-documentary-t
 <p>* select the "ab" box (which will surround the text transcription).</p>
 
 <p>* transcribe all of the <a href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-metamark.html">metamark</a> elements first, then focus on transcribing the whole text.</p>
+
+<p>* consult the <a href="https://christopherohge.com/hayford-sealts-billy-budd-transcription.pdf">Hayford-Sealts genetic transcription</a> for stage numbers and help on transcribing words.</p>
 
 <p>6. Draw boxes around each of the revision or metamark sites. As you do so, highlight the transcribed text of the revision, then double-click on the box (near the number) of its corresponding revision site box. Enter the appropriate TEI encoding.</p>
 
