@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "See Advanced Module"
+title:  "Proceed to Advanced Module"
 permalink: /advanced/
 ---
 
