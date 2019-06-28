@@ -188,14 +188,14 @@ Uses XSLT transformations to display TEI
 
 6. **[TEI Publisher](http://teipublisher.com/exist/apps/tei-publisher-home/index.html)**
     * Best for an out-of-the-box solution
-    * Based on eXist-db database
-Provides easy browsing and
-search of TEI documents
-Default view is clean, simple
-but elegant
-Control of display is through
+    * Gains: Based on eXist-db database, provides easy browsing and search of TEI documents, default view is clean, simple
+but elegant, control of display is through
 ODD processing format
-7. **Bespoke online resource**
+7. [**TextLab**](https://app.textlab.org/)
+    * Best for editing manuscript-based editions and archives
+    * Gains: Open source, developer support, customised encoding, TEI input is not manual but triggered through buttons and menus, terrific interface.
+    * Losses: Hosting costs, requires digitised images.
+8. **Bespoke online resource**
     * Gains: Highly customisable, takes full advantage of your rich XML, presents multiple views based on your data, includes many related resources.
     * Losses: time and skill intensive.
 
