@@ -15,7 +15,7 @@ Follow the schedule below, which includes links to the individual days, or navig
 
 ## Schedule
 
-(Please note that I will hold office hours in Room 242 for further consultation between 8.30–9.30 and 16.00–17.00)
+(Please note that I will hold office hours in Room 242, Senate House (South Block), for further consultation from 16.00–17.30)
 
 ### [Day 1 (Monday, 24 June)](/day1.md)
 
