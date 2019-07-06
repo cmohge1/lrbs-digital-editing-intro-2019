@@ -9,7 +9,7 @@ Convened by: Dr Christopher Ohge (Institute of English Studies)
 
 Guest Tutors: Jonathan Blaney (Institute of Historical Research), Jessica Dalton (St Andrews), Simona Stoyanova (Institute of Classical Studies; LatinNow Project)
 
-**Venue: IHR Training Suite, Senate House (North Block, 3rd Floor), University of London**
+**Venue: IHR Training Room 318, Senate House (North Block, 3rd Floor), University of London**
 
 Follow the schedule below, which includes links to the individual days, or navigate to the appropriate day at the top of the page.
 
