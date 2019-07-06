@@ -24,7 +24,7 @@ github_username:  cmohge1
 
 # Build settings
 markdown: kramdown
-remote-theme: broccolini/swiss
+remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
 

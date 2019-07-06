@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Child on the Cliffs</title>
+            <author>By Edward Thomas</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>LRBS Digital Editing Exercise</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Source: 1918 Poems</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <head>The Child on the Cliffs <lb/> By Edward Thomas</head>
+            <lg type="sestet">
+               <l>Mother, the root of this little yellow flower</l>
+               <l>Among the stones has the taste of quinine.</l>
+               <l>Things are strange to-day on the cliff. The sun shines so bright,</l>
+               <l>And the grasshopper works at his sewing-machine</l>
+               <l>So hard. Here’s one on my hand, mother, look;</l>
+               <l>I lie so still. There’s one on your book.</l>
+            </lg>
+
+            <lg type="sestet">
+               <l>But I have something to tell more strange. So leave</l>
+               <l>Your book to the grasshopper, mother dear,—</l>
+               <l>Like a green knight in a dazzling market-place,—</l>
+               <l>And listen now. Can you hear what I hear</l>
+               <l>Far out? Now and then the foam there curls</l>
+               <l>And stretches a white arm out like a girl’s.</l>
+            </lg>
+
+            <lg type="sestet">
+               <l>Fishes and gulls ring no bells. There cannot be</l>
+               <l>A chapel or church between here and Devon,</l>
+               <l>With fishes or gulls ringing its bell,—hark!—</l>
+               <l>Somewhere under the sea or up in heaven.</l>
+               <l>“It’s the bell, my son, out in the bay</l>
+               <l>On the buoy. It does sound sweet to-day.”</l>
+            </lg>
+
+            <lg type="sestet">
+               <l>Sweeter I never heard, mother, no, not in all Wales.</l>
+               <l>I should like to be lying under that foam,</l>
+               <l>Dead, but able to hear the sound of the bell,</l>
+               <l>And certain that you would often come</l>
+               <l>And rest, listening happily.</l>
+               <l>I should be happy if that could be.</l>
+            </lg>
+         </div>
+
+
+      </body>
+   </text>
+</TEI>
